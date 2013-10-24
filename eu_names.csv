@@ -1,0 +1,33 @@
+name_native,name_english,name_official,NUTS_ID,group_espanet2012,group_post_soc
+Belgique/België,Belgium,Kingdom of Belgium,BE,western,western
+България,Bulgaria,Republic of Bulgaria,BG,postsocialist,postsocialist
+Česká republika,Czech Republic,Czech Republic,CZ,postsocialist,postsocialist
+Danmark,Denmark,Kingdom of Denmark,DK,western,western
+Deutschland,Germany,Federal Republic of Germany,DE,focus,western
+Eesti,Estonia,Republic of Estonia,EE,postsocialist,postsocialist
+Éire/Ireland,Ireland,Ireland,IE,western,western
+Ελλάδα,Greece,Hellenic Republic,EL,western,western
+España,Spain,Kingdom of Spain,ES,western,western
+France,France,French Republic,FR,western,western
+Ísland,Iceland,Republic of Iceland,IS,western,western
+Norge,Norway,Norway,NO,western,western
+Italia,Italy,Italian Republic,IT,focus,western
+Κύπρος ,Cyprus,Republic of Cyprus,CY,western,western
+Latvija,Latvia,Republic of Latvia,LV,postsocialist,postsocialist
+Lietuva,Lithuania,Republic of Lithuania,LT,postsocialist,postsocialist
+Luxembourg,Luxembourg,Grand Duchy of Luxembourg,LU,western,western
+Magyarország,Hungary,Hungary,HU,postsocialist,postsocialist
+Malta,Malta,Republic of Malta,MT,western,western
+Nederland,Netherlands,Kingdom of the Netherlands,NL,western,western
+Österreich,Austria,Republic of Austria,AT,western,western
+Polska,Poland,Republic of Poland,PL,focus,postsocialist
+Portugal,Portugal,Portuguese Republic,PT,western,western
+România,Romania,Romania,RO,focus,postsocialist
+Slovenija,Slovenia,Republic of Slovenia,SI,postsocialist,postsocialist
+Slovensko,Slovakia,Slovak Republic,SK,postsocialist,postsocialist
+Suomi/Finland,Finland,Republic of Finland,FI,western,western
+Sverige,Sweden,Kingdom of Sweden,SE,focus,western
+United Kingdom,United Kingdom,United Kingdom of Great Britain and Northern Ireland,UK,focus,western
+,EU (27 countries),,,EU27,EU27
+,Euro area (17 countries),,,euro17,euro17
+,Euro area (16 countries),,,euro16,euro16
