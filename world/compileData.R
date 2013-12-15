@@ -20,7 +20,7 @@ write.csv(dat, file="world/countriesContinents.csv")
 
 ## Add continent names
 dat <- read.csv("world/countriesContinents.csv")
-names(dat)[1] <- "contCode"
+#names(dat)[1] <- "contCode"
 
 # North America is coded NA which R sees as a missing data. HAve to fix that
 dat$contCode <- as.character(dat$contCode)
@@ -32,7 +32,7 @@ dat$contName[dat$contCode == "AN"] <- "Antarctica"
 dat$contName[dat$contCode == "AS"] <- "Asia"
 dat$contName[dat$contCode == "EU"] <- "Europe"
 dat$contName[dat$contCode == "OC"] <- "Oceania"
-dat$contName[dat$contCode == "OC"] <- "South America"
+dat$contName[dat$contCode == "SA"] <- "South America"
 dat$contName[dat$contCode == NA] <- "North America"
 
 write.csv(dat, file="world/countriesContinents.csv")
