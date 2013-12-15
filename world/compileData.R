@@ -3,6 +3,21 @@
 
 # Operations
 
+
+# 20131215_2
+
+# As the operation below does not really work out for North America 
+# we will do a quick fix for contName var
+dat$contName <- as.character(dat$contName)
+dat$contName[is.na(dat$contName)] <- "North America"
+dat$contName <- factor(dat$contName)
+
+write.csv(dat, file="world/countriesContinents.csv")
+
+
+
+# 20131215_1
+
 ## Add continent names
 dat <- read.csv("world/countriesContinents.csv")
 names(dat)[1] <- "contCode"
@@ -18,6 +33,7 @@ dat$contName[dat$contCode == "AS"] <- "Asia"
 dat$contName[dat$contCode == "EU"] <- "Europe"
 dat$contName[dat$contCode == "OC"] <- "Oceania"
 dat$contName[dat$contCode == "OC"] <- "South America"
-dat$contName[dat$contCode == "NA"] <- "North America"
+dat$contName[dat$contCode == NA] <- "North America"
 
 write.csv(dat, file="world/countriesContinents.csv")
+
