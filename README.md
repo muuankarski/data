@@ -3,6 +3,17 @@
 
 This repository has several small pieces of data that I'm regularly using in my work for combining different datasets
 
+## World
+
+Data `countriesContinents.csv` has all the World countries with continents
+
+**Read data in R**
+
+```
+library(RCurl)
+GHurl <- getURL("https://raw.github.com/muuankarski/data/master/world/countriesContinents.csv")
+dat <- read.csv(text = GHurl)
+```
 
 ## Europe
 
