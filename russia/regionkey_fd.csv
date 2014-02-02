@@ -1,9 +1,9 @@
-idx,russian,ID,NAME_1,region_en,name_rustfare
-0,190,4,Far Eastern Federal District,Far Eastern Federal District,FD_Far Eastern Federal District
-1,190,5,Siberian Federal District,Siberian Federal District,FD_Siberian Federal District
-2,190,6,Ural Federal District,Ural Federal District,FD_Ural Federal District
-3,190,7,Volga Federal District,Volga Federal District,FD_Volga Federal District
-4,190,3,Northwestern Federal District,Northwestern Federal District,FD_Northwestern Federal District
-5,190,1,Central Federal District,Central Federal District,FD_Central Federal District
-6,190,8,North Caucasian Federal District,North Caucasian Federal District,FD_North Caucasian Federal District
-7,190,2,Southern Federal District,Southern Federal District,FD_Southern Federal District
+idx,russian,ID,NAME_1,name_en
+0,,4,Far Eastern Federal District,FD_Far Eastern Federal District
+1,,5,Siberian Federal District,FD_Siberian Federal District
+2,,6,Ural Federal District,FD_Ural Federal District
+3,,7,Volga Federal District,FD_Volga Federal District
+4,,3,Northwestern Federal District,FD_Northwestern Federal District
+5,,1,Central Federal District,FD_Central Federal District
+6,,8,North Caucasian Federal District,FD_North Caucasian Federal District
+7,,2,Southern Federal District,FD_Southern Federal District
