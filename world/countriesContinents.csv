@@ -24,230 +24,230 @@
 147,147,147,EU, MD, MDA,498, Moldova,Europe,Post-Soviet
 241,241,241,EU, UA, UKR,804, Ukraine,Europe,Post-Soviet
 192,192,192,EU, RU, RUS,643, Russian Federation,Europe,Russia
-1,1,1,AS, AF, AFG,4,Afghanistan,Asia,not
-3,3,3,AN, AQ, ATA,10,Antarctica (the territory South of 60 deg S),Antarctica,not
-4,4,4,AF, DZ, DZA,12,Algeria,Africa,not
-5,5,5,OC, AS, ASM,16,American Samoa,Oceania,not
-6,6,6,EU, AD, AND,20,Andorra,Europe,not
-7,7,7,AF, AO, AGO,24,Angola,Africa,not
-8,8,8,NA, AG, ATG,28,Antigua and Barbuda,North America,not
-11,11,11,SA, AR, ARG,32,Argentina,South America,not
-12,12,12,OC, AU, AUS,36,Australia,Oceania,not
-13,13,13,EU, AT, AUT,40,Austria,Europe,not
-14,14,14,NA, BS, BHS,44,Bahamas,North America,not
-15,15,15,AS, BH, BHR,48,Bahrain,Asia,not
-16,16,16,AS, BD, BGD,50,Bangladesh,Asia,not
-17,17,17,EU, AM, ARM,51,Armenia,Europe,not
-19,19,19,NA, BB, BRB,52,Barbados,North America,not
-20,20,20,EU, BE, BEL,56,Belgium,Europe,not
-21,21,21,NA, BM, BMU,60,Bermuda,North America,not
-22,22,22,AS, BT, BTN,64,Bhutan,Asia,not
-23,23,23,SA, BO, BOL,68,Bolivia,South America,not
-25,25,25,AF, BW, BWA,72,Botswana,Africa,not
-26,26,26,AN, BV, BVT,74,Bouvet Island (Bouvetoya),Antarctica,not
-27,27,27,SA, BR, BRA,76,Brazil,South America,not
-28,28,28,NA, BZ, BLZ,84,Belize,North America,not
-29,29,29,AS, IO, IOT,86,British Indian Ocean Territory (Chagos Archipelago),Asia,not
-30,30,30,OC, SB, SLB,90,Solomon Islands,Oceania,not
-31,31,31,NA, VG, VGB,92,British Virgin Islands,North America,not
-32,32,32,AS, BN, BRN,96,Brunei Darussalam,Asia,not
-34,34,34,AS, MM, MMR,104, Myanmar,Asia,not
-35,35,35,AF, BI, BDI,108, Burundi,Africa,not
-37,37,37,AS, KH, KHM,116, Cambodia,Asia,not
-38,38,38,AF, CM, CMR,120, Cameroon,Africa,not
-39,39,39,NA, CA, CAN,124, Canada,North America,not
-40,40,40,AF, CV, CPV,132, Cape Verde,Africa,not
-41,41,41,NA, KY, CYM,136, Cayman Islands,North America,not
-42,42,42,AF, CF, CAF,140, Central African Republic,Africa,not
-43,43,43,AS, LK, LKA,144, Sri Lanka,Asia,not
-44,44,44,AF, TD, TCD,148, Chad,Africa,not
-45,45,45,SA, CL, CHL,152, Chile,South America,not
-46,46,46,AS, CN, CHN,156, China,Asia,not
-47,47,47,AS, TW, TWN,158, Taiwan,Asia,not
-48,48,48,AS, CX, CXR,162, Christmas Island,Asia,not
-49,49,49,AS, CC, CCK,166, Cocos (Keeling) Islands,Asia,not
-50,50,50,SA, CO, COL,170, Colombia,South America,not
-51,51,51,AF, KM, COM,174, Comoros,Africa,not
-52,52,52,AF, YT, MYT,175, Mayotte,Africa,not
-53,53,53,AF, CG, COG,178, Congo,Africa,not
-54,54,54,AF, CD, COD,180, Congo,Africa,not
-55,55,55,OC, CK, COK,184, Cook Islands,Oceania,not
-56,56,56,NA, CR, CRI,188, Costa Rica,North America,not
-58,58,58,NA, CU, CUB,192, Cuba,North America,not
-59,59,59,EU, CY, CYP,196, Cyprus,Europe,not
-62,62,62,AF, BJ, BEN,204, Benin,Africa,not
-63,63,63,EU, DK, DNK,208, Denmark,Europe,not
-64,64,64,NA, DM, DMA,212, Dominica,North America,not
-65,65,65,NA, DO, DOM,214, Dominican Republic,North America,not
-66,66,66,SA, EC, ECU,218, Ecuador,South America,not
-67,67,67,NA, SV, SLV,222, El Salvador,North America,not
-68,68,68,AF, GQ, GNQ,226, Equatorial Guinea,Africa,not
-69,69,69,AF, ET, ETH,231, Ethiopia,Africa,not
-70,70,70,AF, ER, ERI,232, Eritrea,Africa,not
-72,72,72,EU, FO, FRO,234, Faroe Islands,Europe,not
-73,73,73,SA, FK, FLK,238, Falkland Islands (Malvinas),South America,not
-74,74,74,AN, GS, SGS,239, South Georgia and the South Sandwich Islands,Antarctica,not
-75,75,75,OC, FJ, FJI,242, Fiji,Oceania,not
-76,76,76,EU, FI, FIN,246, Finland,Europe,not
-77,77,77,EU, AX, ALA,248, Åland Islands,Europe,not
-78,78,78,EU, FR, FRA,250, France,Europe,not
-79,79,79,SA, GF, GUF,254, French Guiana,South America,not
-80,80,80,OC, PF, PYF,258, French Polynesia,Oceania,not
-81,81,81,AN, TF, ATF,260, French Southern Territories,Antarctica,not
-82,82,82,AF, DJ, DJI,262, Djibouti,Africa,not
-83,83,83,AF, GA, GAB,266, Gabon,Africa,not
-86,86,86,AF, GM, GMB,270, Gambia,Africa,not
-87,87,87,AS, PS, PSE,275, Palestinian Territory,Asia,not
-88,88,88,EU, DE, DEU,276, Germany,Europe,not
-89,89,89,AF, GH, GHA,288, Ghana,Africa,not
-90,90,90,EU, GI, GIB,292, Gibraltar,Europe,not
-91,91,91,OC, KI, KIR,296, Kiribati,Oceania,not
-92,92,92,EU, GR, GRC,300, Greece,Europe,not
-93,93,93,NA, GL, GRL,304, Greenland,North America,not
-94,94,94,NA, GD, GRD,308, Grenada,North America,not
-95,95,95,NA, GP, GLP,312, Guadeloupe,North America,not
-96,96,96,OC, GU, GUM,316, Guam,Oceania,not
-97,97,97,NA, GT, GTM,320, Guatemala,North America,not
-98,98,98,AF, GN, GIN,324, Guinea,Africa,not
-99,99,99,SA, GY, GUY,328, Guyana,South America,not
-100,100,100,NA, HT, HTI,332, Haiti,North America,not
-101,101,101,AN, HM, HMD,334, Heard Island and McDonald Islands,Antarctica,not
-102,102,102,EU, VA, VAT,336, Holy See (Vatican City State),Europe,not
-103,103,103,NA, HN, HND,340, Honduras,North America,not
-104,104,104,AS, HK, HKG,344, Hong Kong,Asia,not
-106,106,106,EU, IS, ISL,352, Iceland,Europe,not
-107,107,107,AS, IN, IND,356, India,Asia,not
-108,108,108,AS, ID, IDN,360, Indonesia,Asia,not
-109,109,109,AS, IR, IRN,364, Iran,Asia,not
-110,110,110,AS, IQ, IRQ,368, Iraq,Asia,not
-111,111,111,EU, IE, IRL,372, Ireland,Europe,not
-112,112,112,AS, IL, ISR,376, Israel,Asia,not
-113,113,113,EU, IT, ITA,380, Italy,Europe,not
-114,114,114,AF, CI, CIV,384, Cote d'Ivoire,Africa,not
-115,115,115,NA, JM, JAM,388, Jamaica,North America,not
-116,116,116,AS, JP, JPN,392, Japan,Asia,not
-119,119,119,AS, JO, JOR,400, Jordan,Asia,not
-120,120,120,AF, KE, KEN,404, Kenya,Africa,not
-121,121,121,AS, KP, PRK,408, Korea,Asia,not
-122,122,122,AS, KR, KOR,410, Korea,Asia,not
-123,123,123,AS, KW, KWT,414, Kuwait,Asia,not
-124,124,124,AS, KG, KGZ,417, Kyrgyz Republic,Asia,not
-125,125,125,AS, LA, LAO,418, Lao People's Democratic Republic,Asia,not
-126,126,126,AS, LB, LBN,422, Lebanon,Asia,not
-127,127,127,AF, LS, LSO,426, Lesotho,Africa,not
-129,129,129,AF, LR, LBR,430, Liberia,Africa,not
-130,130,130,AF, LY, LBY,434, Libyan Arab Jamahiriya,Africa,not
-131,131,131,EU, LI, LIE,438, Liechtenstein,Europe,not
-133,133,133,EU, LU, LUX,442, Luxembourg,Europe,not
-134,134,134,AS, MO, MAC,446, Macao,Asia,not
-135,135,135,AF, MG, MDG,450, Madagascar,Africa,not
-136,136,136,AF, MW, MWI,454, Malawi,Africa,not
-137,137,137,AS, MY, MYS,458, Malaysia,Asia,not
-138,138,138,AS, MV, MDV,462, Maldives,Asia,not
-139,139,139,AF, ML, MLI,466, Mali,Africa,not
-140,140,140,EU, MT, MLT,470, Malta,Europe,not
-141,141,141,NA, MQ, MTQ,474, Martinique,North America,not
-142,142,142,AF, MR, MRT,478, Mauritania,Africa,not
-143,143,143,AF, MU, MUS,480, Mauritius,Africa,not
-144,144,144,NA, MX, MEX,484, Mexico,North America,not
-145,145,145,EU, MC, MCO,492, Monaco,Europe,not
-146,146,146,AS, MN, MNG,496, Mongolia,Asia,not
-149,149,149,NA, MS, MSR,500, Montserrat,North America,not
-150,150,150,AF, MA, MAR,504, Morocco,Africa,not
-151,151,151,AF, MZ, MOZ,508, Mozambique,Africa,not
-152,152,152,AS, OM, OMN,512, Oman,Asia,not
-153,153,153,AF, NA, NAM,516, Namibia,Africa,not
-154,154,154,OC, NR, NRU,520, Nauru,Oceania,not
-155,155,155,AS, NP, NPL,524, Nepal,Asia,not
-156,156,156,EU, NL, NLD,528, Netherlands,Europe,not
-157,157,157,NA, AN, ANT,530, Netherlands Antilles,North America,not
-158,158,158,NA, CW, CUW,531, Curaçao,North America,not
-159,159,159,NA, AW, ABW,533, Aruba,North America,not
-160,160,160,NA, SX, SXM,534, Sint Maarten (Netherlands),North America,not
-161,161,161,NA, BQ, BES,535, Bonaire,North America,not
-162,162,162,OC, NC, NCL,540, New Caledonia,Oceania,not
-163,163,163,OC, VU, VUT,548, Vanuatu,Oceania,not
-164,164,164,OC, NZ, NZL,554, New Zealand,Oceania,not
-165,165,165,NA, NI, NIC,558, Nicaragua,North America,not
-166,166,166,AF, NE, NER,562, Niger,Africa,not
-167,167,167,AF, NG, NGA,566, Nigeria,Africa,not
-168,168,168,OC, NU, NIU,570, Niue,Oceania,not
-169,169,169,OC, NF, NFK,574, Norfolk Island,Oceania,not
-170,170,170,EU, NO, NOR,578, Norway,Europe,not
-171,171,171,OC, MP, MNP,580, Northern Mariana Islands,Oceania,not
-172,172,172,OC, UM, UMI,581, United States Minor Outlying Islands,Oceania,not
-173,173,173,NA, UM, UMI,581, United States Minor Outlying Islands,North America,not
-174,174,174,OC, FM, FSM,583, Micronesia,Oceania,not
-175,175,175,OC, MH, MHL,584, Marshall Islands,Oceania,not
-176,176,176,OC, PW, PLW,585, Palau,Oceania,not
-177,177,177,AS, PK, PAK,586, Pakistan,Asia,not
-178,178,178,NA, PA, PAN,591, Panama,North America,not
-179,179,179,OC, PG, PNG,598, Papua New Guinea,Oceania,not
-180,180,180,SA, PY, PRY,600, Paraguay,South America,not
-181,181,181,SA, PE, PER,604, Peru,South America,not
-182,182,182,AS, PH, PHL,608, Philippines,Asia,not
-183,183,183,OC, PN, PCN,612, Pitcairn Islands,Oceania,not
-185,185,185,EU, PT, PRT,620, Portugal,Europe,not
-186,186,186,AF, GW, GNB,624, Guinea-Bissau,Africa,not
-187,187,187,AS, TL, TLS,626, Timor-Leste,Asia,not
-188,188,188,NA, PR, PRI,630, Puerto Rico,North America,not
-189,189,189,AS, QA, QAT,634, Qatar,Asia,not
-190,190,190,AF, RE, REU,638, Reunion,Africa,not
-194,194,194,AF, RW, RWA,646, Rwanda,Africa,not
-195,195,195,NA, BL, BLM,652, Saint Barthelemy,North America,not
-196,196,196,AF, SH, SHN,654, Saint Helena,Africa,not
-197,197,197,NA, KN, KNA,659, Saint Kitts and Nevis,North America,not
-198,198,198,NA, AI, AIA,660, Anguilla,North America,not
-199,199,199,NA, LC, LCA,662, Saint Lucia,North America,not
-200,200,200,NA, MF, MAF,663, Saint Martin,North America,not
-201,201,201,NA, PM, SPM,666, Saint Pierre and Miquelon,North America,not
-202,202,202,NA, VC, VCT,670, Saint Vincent and the Grenadines,North America,not
-203,203,203,EU, SM, SMR,674, San Marino,Europe,not
-204,204,204,AF, ST, STP,678, Sao Tome and Principe,Africa,not
-205,205,205,AS, SA, SAU,682, Saudi Arabia,Asia,not
-206,206,206,AF, SN, SEN,686, Senegal,Africa,not
-208,208,208,AF, SC, SYC,690, Seychelles,Africa,not
-209,209,209,AF, SL, SLE,694, Sierra Leone,Africa,not
-210,210,210,AS, SG, SGP,702, Singapore,Asia,not
-212,212,212,AS, VN, VNM,704, Vietnam,Asia,not
-214,214,214,AF, SO, SOM,706, Somalia,Africa,not
-215,215,215,AF, ZA, ZAF,710, South Africa,Africa,not
-216,216,216,AF, ZW, ZWE,716, Zimbabwe,Africa,not
-217,217,217,EU, ES, ESP,724, Spain,Europe,not
-218,218,218,AF, SS, SSD,728, South Sudan,Africa,not
-219,219,219,AF, EH, ESH,732, Western Sahara,Africa,not
-220,220,220,AF, SD, SDN,736, Sudan,Africa,not
-221,221,221,SA, SR, SUR,740, Suriname,South America,not
-222,222,222,EU, SJ, SJM,744, Svalbard & Jan Mayen Islands,Europe,not
-223,223,223,AF, SZ, SWZ,748, Swaziland,Africa,not
-224,224,224,EU, SE, SWE,752, Sweden,Europe,not
-225,225,225,EU, CH, CHE,756, Switzerland,Europe,not
-226,226,226,AS, SY, SYR,760, Syrian Arab Republic,Asia,not
-228,228,228,AS, TH, THA,764, Thailand,Asia,not
-229,229,229,AF, TG, TGO,768, Togo,Africa,not
-230,230,230,OC, TK, TKL,772, Tokelau,Oceania,not
-231,231,231,OC, TO, TON,776, Tonga,Oceania,not
-232,232,232,NA, TT, TTO,780, Trinidad and Tobago,North America,not
-233,233,233,AS, AE, ARE,784, United Arab Emirates,Asia,not
-234,234,234,AF, TN, TUN,788, Tunisia,Africa,not
-235,235,235,EU, TR, TUR,792, Turkey,Europe,not
-236,236,236,AS, TR, TUR,792, Turkey,Asia,not
-238,238,238,NA, TC, TCA,796, Turks and Caicos Islands,North America,not
-239,239,239,OC, TV, TUV,798, Tuvalu,Oceania,not
-240,240,240,AF, UG, UGA,800, Uganda,Africa,not
-242,242,242,EU, MK, MKD,807, Macedonia,Europe,not
-243,243,243,AF, EG, EGY,818, Egypt,Africa,not
-244,244,244,EU, GB, GBR,826, United Kingdom of Great Britain & Northern Ireland,Europe,not
-245,245,245,EU, GG, GGY,831, Guernsey,Europe,not
-246,246,246,EU, JE, JEY,832, Jersey,Europe,not
-247,247,247,EU, IM, IMN,833, Isle of Man,Europe,not
-248,248,248,AF, TZ, TZA,834, Tanzania,Africa,not
-249,249,249,NA, US, USA,840, United States of America,North America,not
-250,250,250,NA, VI, VIR,850, United States Virgin Islands,North America,not
-251,251,251,AF, BF, BFA,854, Burkina Faso,Africa,not
-252,252,252,SA, UY, URY,858, Uruguay,South America,not
-254,254,254,SA, VE, VEN,862, Venezuela,South America,not
-255,255,255,OC, WF, WLF,876, Wallis and Futuna,Oceania,not
-256,256,256,OC, WS, WSM,882, Samoa,Oceania,not
-257,257,257,AS, YE, YEM,887, Yemen,Asia,not
-258,258,258,AF, ZM, ZMB,894, Zambia,Africa,not
+1,1,1,AS, AF, AFG,4,Afghanistan,Asia,other
+3,3,3,AN, AQ, ATA,10,Antarctica (the territory South of 60 deg S),Antarctica,other
+4,4,4,AF, DZ, DZA,12,Algeria,Africa,other
+5,5,5,OC, AS, ASM,16,American Samoa,Oceania,other
+6,6,6,EU, AD, AND,20,Andorra,Europe,other
+7,7,7,AF, AO, AGO,24,Angola,Africa,other
+8,8,8,NA, AG, ATG,28,Antigua and Barbuda,North America,other
+11,11,11,SA, AR, ARG,32,Argentina,South America,other
+12,12,12,OC, AU, AUS,36,Australia,Oceania,other
+13,13,13,EU, AT, AUT,40,Austria,Europe,other
+14,14,14,NA, BS, BHS,44,Bahamas,North America,other
+15,15,15,AS, BH, BHR,48,Bahrain,Asia,other
+16,16,16,AS, BD, BGD,50,Bangladesh,Asia,other
+17,17,17,EU, AM, ARM,51,Armenia,Europe,other
+19,19,19,NA, BB, BRB,52,Barbados,North America,other
+20,20,20,EU, BE, BEL,56,Belgium,Europe,other
+21,21,21,NA, BM, BMU,60,Bermuda,North America,other
+22,22,22,AS, BT, BTN,64,Bhutan,Asia,other
+23,23,23,SA, BO, BOL,68,Bolivia,South America,other
+25,25,25,AF, BW, BWA,72,Botswana,Africa,other
+26,26,26,AN, BV, BVT,74,Bouvet Island (Bouvetoya),Antarctica,other
+27,27,27,SA, BR, BRA,76,Brazil,South America,other
+28,28,28,NA, BZ, BLZ,84,Belize,North America,other
+29,29,29,AS, IO, IOT,86,British Indian Ocean Territory (Chagos Archipelago),Asia,other
+30,30,30,OC, SB, SLB,90,Solomon Islands,Oceania,other
+31,31,31,NA, VG, VGB,92,British Virgin Islands,North America,other
+32,32,32,AS, BN, BRN,96,Brunei Darussalam,Asia,other
+34,34,34,AS, MM, MMR,104, Myanmar,Asia,other
+35,35,35,AF, BI, BDI,108, Burundi,Africa,other
+37,37,37,AS, KH, KHM,116, Cambodia,Asia,other
+38,38,38,AF, CM, CMR,120, Cameroon,Africa,other
+39,39,39,NA, CA, CAN,124, Canada,North America,other
+40,40,40,AF, CV, CPV,132, Cape Verde,Africa,other
+41,41,41,NA, KY, CYM,136, Cayman Islands,North America,other
+42,42,42,AF, CF, CAF,140, Central African Republic,Africa,other
+43,43,43,AS, LK, LKA,144, Sri Lanka,Asia,other
+44,44,44,AF, TD, TCD,148, Chad,Africa,other
+45,45,45,SA, CL, CHL,152, Chile,South America,other
+46,46,46,AS, CN, CHN,156, China,Asia,other
+47,47,47,AS, TW, TWN,158, Taiwan,Asia,other
+48,48,48,AS, CX, CXR,162, Christmas Island,Asia,other
+49,49,49,AS, CC, CCK,166, Cocos (Keeling) Islands,Asia,other
+50,50,50,SA, CO, COL,170, Colombia,South America,other
+51,51,51,AF, KM, COM,174, Comoros,Africa,other
+52,52,52,AF, YT, MYT,175, Mayotte,Africa,other
+53,53,53,AF, CG, COG,178, Congo,Africa,other
+54,54,54,AF, CD, COD,180, Congo,Africa,other
+55,55,55,OC, CK, COK,184, Cook Islands,Oceania,other
+56,56,56,NA, CR, CRI,188, Costa Rica,North America,other
+58,58,58,NA, CU, CUB,192, Cuba,North America,other
+59,59,59,EU, CY, CYP,196, Cyprus,Europe,other
+62,62,62,AF, BJ, BEN,204, Benin,Africa,other
+63,63,63,EU, DK, DNK,208, Denmark,Europe,other
+64,64,64,NA, DM, DMA,212, Dominica,North America,other
+65,65,65,NA, DO, DOM,214, Dominican Republic,North America,other
+66,66,66,SA, EC, ECU,218, Ecuador,South America,other
+67,67,67,NA, SV, SLV,222, El Salvador,North America,other
+68,68,68,AF, GQ, GNQ,226, Equatorial Guinea,Africa,other
+69,69,69,AF, ET, ETH,231, Ethiopia,Africa,other
+70,70,70,AF, ER, ERI,232, Eritrea,Africa,other
+72,72,72,EU, FO, FRO,234, Faroe Islands,Europe,other
+73,73,73,SA, FK, FLK,238, Falkland Islands (Malvinas),South America,other
+74,74,74,AN, GS, SGS,239, South Georgia and the South Sandwich Islands,Antarctica,other
+75,75,75,OC, FJ, FJI,242, Fiji,Oceania,other
+76,76,76,EU, FI, FIN,246, Finland,Europe,other
+77,77,77,EU, AX, ALA,248, Åland Islands,Europe,other
+78,78,78,EU, FR, FRA,250, France,Europe,other
+79,79,79,SA, GF, GUF,254, French Guiana,South America,other
+80,80,80,OC, PF, PYF,258, French Polynesia,Oceania,other
+81,81,81,AN, TF, ATF,260, French Southern Territories,Antarctica,other
+82,82,82,AF, DJ, DJI,262, Djibouti,Africa,other
+83,83,83,AF, GA, GAB,266, Gabon,Africa,other
+86,86,86,AF, GM, GMB,270, Gambia,Africa,other
+87,87,87,AS, PS, PSE,275, Palestinian Territory,Asia,other
+88,88,88,EU, DE, DEU,276, Germany,Europe,other
+89,89,89,AF, GH, GHA,288, Ghana,Africa,other
+90,90,90,EU, GI, GIB,292, Gibraltar,Europe,other
+91,91,91,OC, KI, KIR,296, Kiribati,Oceania,other
+92,92,92,EU, GR, GRC,300, Greece,Europe,other
+93,93,93,NA, GL, GRL,304, Greenland,North America,other
+94,94,94,NA, GD, GRD,308, Grenada,North America,other
+95,95,95,NA, GP, GLP,312, Guadeloupe,North America,other
+96,96,96,OC, GU, GUM,316, Guam,Oceania,other
+97,97,97,NA, GT, GTM,320, Guatemala,North America,other
+98,98,98,AF, GN, GIN,324, Guinea,Africa,other
+99,99,99,SA, GY, GUY,328, Guyana,South America,other
+100,100,100,NA, HT, HTI,332, Haiti,North America,other
+101,101,101,AN, HM, HMD,334, Heard Island and McDonald Islands,Antarctica,other
+102,102,102,EU, VA, VAT,336, Holy See (Vatican City State),Europe,other
+103,103,103,NA, HN, HND,340, Honduras,North America,other
+104,104,104,AS, HK, HKG,344, Hong Kong,Asia,other
+106,106,106,EU, IS, ISL,352, Iceland,Europe,other
+107,107,107,AS, IN, IND,356, India,Asia,other
+108,108,108,AS, ID, IDN,360, Indonesia,Asia,other
+109,109,109,AS, IR, IRN,364, Iran,Asia,other
+110,110,110,AS, IQ, IRQ,368, Iraq,Asia,other
+111,111,111,EU, IE, IRL,372, Ireland,Europe,other
+112,112,112,AS, IL, ISR,376, Israel,Asia,other
+113,113,113,EU, IT, ITA,380, Italy,Europe,other
+114,114,114,AF, CI, CIV,384, Cote d'Ivoire,Africa,other
+115,115,115,NA, JM, JAM,388, Jamaica,North America,other
+116,116,116,AS, JP, JPN,392, Japan,Asia,other
+119,119,119,AS, JO, JOR,400, Jordan,Asia,other
+120,120,120,AF, KE, KEN,404, Kenya,Africa,other
+121,121,121,AS, KP, PRK,408, Korea,Asia,other
+122,122,122,AS, KR, KOR,410, Korea,Asia,other
+123,123,123,AS, KW, KWT,414, Kuwait,Asia,other
+124,124,124,AS, KG, KGZ,417, Kyrgyz Republic,Asia,other
+125,125,125,AS, LA, LAO,418, Lao People's Democratic Republic,Asia,other
+126,126,126,AS, LB, LBN,422, Lebanon,Asia,other
+127,127,127,AF, LS, LSO,426, Lesotho,Africa,other
+129,129,129,AF, LR, LBR,430, Liberia,Africa,other
+130,130,130,AF, LY, LBY,434, Libyan Arab Jamahiriya,Africa,other
+131,131,131,EU, LI, LIE,438, Liechtenstein,Europe,other
+133,133,133,EU, LU, LUX,442, Luxembourg,Europe,other
+134,134,134,AS, MO, MAC,446, Macao,Asia,other
+135,135,135,AF, MG, MDG,450, Madagascar,Africa,other
+136,136,136,AF, MW, MWI,454, Malawi,Africa,other
+137,137,137,AS, MY, MYS,458, Malaysia,Asia,other
+138,138,138,AS, MV, MDV,462, Maldives,Asia,other
+139,139,139,AF, ML, MLI,466, Mali,Africa,other
+140,140,140,EU, MT, MLT,470, Malta,Europe,other
+141,141,141,NA, MQ, MTQ,474, Martinique,North America,other
+142,142,142,AF, MR, MRT,478, Mauritania,Africa,other
+143,143,143,AF, MU, MUS,480, Mauritius,Africa,other
+144,144,144,NA, MX, MEX,484, Mexico,North America,other
+145,145,145,EU, MC, MCO,492, Monaco,Europe,other
+146,146,146,AS, MN, MNG,496, Mongolia,Asia,other
+149,149,149,NA, MS, MSR,500, Montserrat,North America,other
+150,150,150,AF, MA, MAR,504, Morocco,Africa,other
+151,151,151,AF, MZ, MOZ,508, Mozambique,Africa,other
+152,152,152,AS, OM, OMN,512, Oman,Asia,other
+153,153,153,AF, NA, NAM,516, Namibia,Africa,other
+154,154,154,OC, NR, NRU,520, Nauru,Oceania,other
+155,155,155,AS, NP, NPL,524, Nepal,Asia,other
+156,156,156,EU, NL, NLD,528, Netherlands,Europe,other
+157,157,157,NA, AN, ANT,530, Netherlands Antilles,North America,other
+158,158,158,NA, CW, CUW,531, Curaçao,North America,other
+159,159,159,NA, AW, ABW,533, Aruba,North America,other
+160,160,160,NA, SX, SXM,534, Sint Maarten (Netherlands),North America,other
+161,161,161,NA, BQ, BES,535, Bonaire,North America,other
+162,162,162,OC, NC, NCL,540, New Caledonia,Oceania,other
+163,163,163,OC, VU, VUT,548, Vanuatu,Oceania,other
+164,164,164,OC, NZ, NZL,554, New Zealand,Oceania,other
+165,165,165,NA, NI, NIC,558, Nicaragua,North America,other
+166,166,166,AF, NE, NER,562, Niger,Africa,other
+167,167,167,AF, NG, NGA,566, Nigeria,Africa,other
+168,168,168,OC, NU, NIU,570, Niue,Oceania,other
+169,169,169,OC, NF, NFK,574, Norfolk Island,Oceania,other
+170,170,170,EU, NO, NOR,578, Norway,Europe,other
+171,171,171,OC, MP, MNP,580, Northern Mariana Islands,Oceania,other
+172,172,172,OC, UM, UMI,581, United States Minor Outlying Islands,Oceania,other
+173,173,173,NA, UM, UMI,581, United States Minor Outlying Islands,North America,other
+174,174,174,OC, FM, FSM,583, Micronesia,Oceania,other
+175,175,175,OC, MH, MHL,584, Marshall Islands,Oceania,other
+176,176,176,OC, PW, PLW,585, Palau,Oceania,other
+177,177,177,AS, PK, PAK,586, Pakistan,Asia,other
+178,178,178,NA, PA, PAN,591, Panama,North America,other
+179,179,179,OC, PG, PNG,598, Papua New Guinea,Oceania,other
+180,180,180,SA, PY, PRY,600, Paraguay,South America,other
+181,181,181,SA, PE, PER,604, Peru,South America,other
+182,182,182,AS, PH, PHL,608, Philippines,Asia,other
+183,183,183,OC, PN, PCN,612, Pitcairn Islands,Oceania,other
+185,185,185,EU, PT, PRT,620, Portugal,Europe,other
+186,186,186,AF, GW, GNB,624, Guinea-Bissau,Africa,other
+187,187,187,AS, TL, TLS,626, Timor-Leste,Asia,other
+188,188,188,NA, PR, PRI,630, Puerto Rico,North America,other
+189,189,189,AS, QA, QAT,634, Qatar,Asia,other
+190,190,190,AF, RE, REU,638, Reunion,Africa,other
+194,194,194,AF, RW, RWA,646, Rwanda,Africa,other
+195,195,195,NA, BL, BLM,652, Saint Barthelemy,North America,other
+196,196,196,AF, SH, SHN,654, Saint Helena,Africa,other
+197,197,197,NA, KN, KNA,659, Saint Kitts and Nevis,North America,other
+198,198,198,NA, AI, AIA,660, Anguilla,North America,other
+199,199,199,NA, LC, LCA,662, Saint Lucia,North America,other
+200,200,200,NA, MF, MAF,663, Saint Martin,North America,other
+201,201,201,NA, PM, SPM,666, Saint Pierre and Miquelon,North America,other
+202,202,202,NA, VC, VCT,670, Saint Vincent and the Grenadines,North America,other
+203,203,203,EU, SM, SMR,674, San Marino,Europe,other
+204,204,204,AF, ST, STP,678, Sao Tome and Principe,Africa,other
+205,205,205,AS, SA, SAU,682, Saudi Arabia,Asia,other
+206,206,206,AF, SN, SEN,686, Senegal,Africa,other
+208,208,208,AF, SC, SYC,690, Seychelles,Africa,other
+209,209,209,AF, SL, SLE,694, Sierra Leone,Africa,other
+210,210,210,AS, SG, SGP,702, Singapore,Asia,other
+212,212,212,AS, VN, VNM,704, Vietnam,Asia,other
+214,214,214,AF, SO, SOM,706, Somalia,Africa,other
+215,215,215,AF, ZA, ZAF,710, South Africa,Africa,other
+216,216,216,AF, ZW, ZWE,716, Zimbabwe,Africa,other
+217,217,217,EU, ES, ESP,724, Spain,Europe,other
+218,218,218,AF, SS, SSD,728, South Sudan,Africa,other
+219,219,219,AF, EH, ESH,732, Western Sahara,Africa,other
+220,220,220,AF, SD, SDN,736, Sudan,Africa,other
+221,221,221,SA, SR, SUR,740, Suriname,South America,other
+222,222,222,EU, SJ, SJM,744, Svalbard & Jan Mayen Islands,Europe,other
+223,223,223,AF, SZ, SWZ,748, Swaziland,Africa,other
+224,224,224,EU, SE, SWE,752, Sweden,Europe,other
+225,225,225,EU, CH, CHE,756, Switzerland,Europe,other
+226,226,226,AS, SY, SYR,760, Syrian Arab Republic,Asia,other
+228,228,228,AS, TH, THA,764, Thailand,Asia,other
+229,229,229,AF, TG, TGO,768, Togo,Africa,other
+230,230,230,OC, TK, TKL,772, Tokelau,Oceania,other
+231,231,231,OC, TO, TON,776, Tonga,Oceania,other
+232,232,232,NA, TT, TTO,780, Trinidad and Tobago,North America,other
+233,233,233,AS, AE, ARE,784, United Arab Emirates,Asia,other
+234,234,234,AF, TN, TUN,788, Tunisia,Africa,other
+235,235,235,EU, TR, TUR,792, Turkey,Europe,other
+236,236,236,AS, TR, TUR,792, Turkey,Asia,other
+238,238,238,NA, TC, TCA,796, Turks and Caicos Islands,North America,other
+239,239,239,OC, TV, TUV,798, Tuvalu,Oceania,other
+240,240,240,AF, UG, UGA,800, Uganda,Africa,other
+242,242,242,EU, MK, MKD,807, Macedonia,Europe,other
+243,243,243,AF, EG, EGY,818, Egypt,Africa,other
+244,244,244,EU, GB, GBR,826, United Kingdom of Great Britain & Northern Ireland,Europe,other
+245,245,245,EU, GG, GGY,831, Guernsey,Europe,other
+246,246,246,EU, JE, JEY,832, Jersey,Europe,other
+247,247,247,EU, IM, IMN,833, Isle of Man,Europe,other
+248,248,248,AF, TZ, TZA,834, Tanzania,Africa,other
+249,249,249,NA, US, USA,840, United States of America,North America,other
+250,250,250,NA, VI, VIR,850, United States Virgin Islands,North America,other
+251,251,251,AF, BF, BFA,854, Burkina Faso,Africa,other
+252,252,252,SA, UY, URY,858, Uruguay,South America,other
+254,254,254,SA, VE, VEN,862, Venezuela,South America,other
+255,255,255,OC, WF, WLF,876, Wallis and Futuna,Oceania,other
+256,256,256,OC, WS, WSM,882, Samoa,Oceania,other
+257,257,257,AS, YE, YEM,887, Yemen,Asia,other
+258,258,258,AF, ZM, ZMB,894, Zambia,Africa,other
