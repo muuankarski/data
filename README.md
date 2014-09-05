@@ -11,7 +11,7 @@ Data `countriesContinents.csv` has all the World countries with continents
 
 ```
 library(RCurl)
-GHurl <- getURL("https://raw.github.com/muuankarski/data/master/world/countriesContinents.csv")
+GHurl <- getURL("https://raw.githubusercontent.com/muuankarski/data/master/world/countries_continents.csv")
 dat <- read.csv(text = GHurl)
 ```
 
@@ -23,7 +23,7 @@ Data `eu_cntry.csv` has all the European countries listed with names in native l
 
 ```
 library(RCurl)
-GHurl <- getURL("https://raw.github.com/muuankarski/data/master/europe/eu_cntry.csv")
+GHurl <- getURL("https://raw.githubusercontent.com/muuankarski/data/master/europe/eu_cntry.csv")
 dat <- read.csv(text = GHurl)
 ```
 
