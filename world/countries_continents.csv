@@ -1,253 +1,253 @@
-"","contCode","cCode2","cCode3","cNr","cntryName","contName","group1","maa","ryhma1"
-"1","EU","AZ","AZE",31,"Azerbaijan","Europe","Caucasus","Azerbaidžan","Post-sosialistinen"
-"2","EU","GE","GEO",268,"Georgia","Europe","Caucasus","Georgia","Post-sosialistinen"
-"3","AS","KZ","KAZ",398,"Kazakhstan","Asia","Central Asia","Kazakstan","Post-sosialistinen"
-"4","AS","TJ","TJK",762,"Tajikistan","Asia","Central Asia","Tadžikistan","Post-sosialistinen"
-"5","AS","TM","TKM",795,"Turkmenistan","Asia","Central Asia","Turkmenistan","Post-sosialistinen"
-"6","AS","UZ","UZB",860,"Uzbekistan","Asia","Central Asia","Uzbekistan","Post-sosialistinen"
-"7","EU","AL","ALB",8,"Albania","Europe","Eastern Europe","Albania","Post-sosialistinen"
-"8","EU","BA","BIH",70,"Bosnia and Herzegovina","Europe","Ex-Jugoslavia","Bosnia ja Hertsegovina","Post-sosialistinen"
-"9","EU","BG","BGR",100,"Bulgaria","Europe","Eastern Europe","Bulgaria","Post-sosialistinen"
-"10","EU","HR","HRV",191,"Croatia","Europe","Ex-Jugoslavia","Kroatia","Post-sosialistinen"
-"11","EU","CZ","CZE",203,"Czech Republic","Europe","Eastern Europe","Tšekki","Post-sosialistinen"
-"12","EU","EE","EST",233,"Estonia","Europe","Baltics","Viro","Post-sosialistinen"
-"13","EU","HU","HUN",348,"Hungary","Europe","Eastern Europe","Unkari","Post-sosialistinen"
-"14","EU","LV","LVA",428,"Latvia","Europe","Baltics","Latvia","Post-sosialistinen"
-"15","EU","LT","LTU",440,"Lithuania","Europe","Baltics","Liettua","Post-sosialistinen"
-"16","EU","ME","MNE",499,"Montenegro","Europe","Ex-Jugoslavia","Montenegro","Post-sosialistinen"
-"17","EU","PL","POL",616,"Poland","Europe","Eastern Europe","Puola","Post-sosialistinen"
-"18","EU","RO","ROU",642,"Romania","Europe","Eastern Europe","Romania","Post-sosialistinen"
-"19","EU","RS","SRB",688,"Serbia","Europe","Ex-Jugoslavia","Serbia","Post-sosialistinen"
-"20","EU","SK","SVK",703,"Slovakia (Slovak Republic)","Europe","Eastern Europe","Slovakia","Post-sosialistinen"
-"21","EU","SI","SVN",705,"Slovenia","Europe","Ex-Jugoslavia","Slovenia","Post-sosialistinen"
-"22","EU","BY","BLR",112,"Belarus","Europe","Post-Soviet","Valko-Venäjä","Post-sosialistinen"
-"23","EU","MD","MDA",498,"Moldova","Europe","Post-Soviet","Moldova","Post-sosialistinen"
-"24","EU","UA","UKR",804,"Ukraine","Europe","Post-Soviet","Ukraina","Post-sosialistinen"
-"25","EU","RU","RUS",643,"Russian Federation","Europe","Russia","Venäjä","Post-sosialistinen"
-"26","AS","AF","AFG",4,"Afghanistan","Asia","Central Asia","Afganistan","Post-sosialistinen"
-"27","AN","AQ","ATA",10,"Antarctica (the territory South of 60 deg S)","Antarctica","other","Antarctica (the territory South of 60 deg S)",""
-"28","AF","DZ","DZA",12,"Algeria","Africa","other","Algeria",""
-"29","OC","AS","ASM",16,"American Samoa","Oceania","other","American Samoa",""
-"30","EU","AD","AND",20,"Andorra","Europe","other","Andorra",""
-"31","AF","AO","AGO",24,"Angola","Africa","other","Angola",""
-"32",NA,"AG","ATG",28,"Antigua and Barbuda","North America","other","Antigua and Barbuda",""
-"33","SA","AR","ARG",32,"Argentina","South America","other","Argentina",""
-"34","OC","AU","AUS",36,"Australia","Oceania","other","Australia",""
-"35","EU","AT","AUT",40,"Austria","Europe","other","Itävalta",""
-"36",NA,"BS","BHS",44,"Bahamas","North America","other","Bahama",""
-"37","AS","BH","BHR",48,"Bahrain","Asia","other","Bahrain",""
-"38","AS","BD","BGD",50,"Bangladesh","Asia","other","Bangladesh",""
-"39","EU","AM","ARM",51,"Armenia","Europe","other","Armenia",""
-"40",NA,"BB","BRB",52,"Barbados","North America","other","Barbados",""
-"41","EU","BE","BEL",56,"Belgium","Europe","other","Belgia","Läntinen Keski-Eurooppa"
-"42",NA,"BM","BMU",60,"Bermuda","North America","other","Bermuda",""
-"43","AS","BT","BTN",64,"Bhutan","Asia","other","Bhutan",""
-"44","SA","BO","BOL",68,"Bolivia","South America","other","Bolivia",""
-"45","AF","BW","BWA",72,"Botswana","Africa","other","Botswana",""
-"46","AN","BV","BVT",74,"Bouvet Island (Bouvetoya)","Antarctica","other","Bouvet Island (Bouvetoya)",""
-"47","SA","BR","BRA",76,"Brazil","South America","other","Brazil",""
-"48",NA,"BZ","BLZ",84,"Belize","North America","other","Belize",""
-"49","AS","IO","IOT",86,"British Indian Ocean Territory (Chagos Archipelago)","Asia","other","British Indian Ocean Territory (Chagos Archipelago)",""
-"50","OC","SB","SLB",90,"Solomon Islands","Oceania","other","Solomon Islands",""
-"51",NA,"VG","VGB",92,"British Virgin Islands","North America","other","British Virgin Islands",""
-"52","AS","BN","BRN",96,"Brunei Darussalam","Asia","other","Brunei Darussalam",""
-"53","AS","MM","MMR",104,"Myanmar","Asia","other","Myanmar",""
-"54","AF","BI","BDI",108,"Burundi","Africa","other","Burundi",""
-"55","AS","KH","KHM",116,"Cambodia","Asia","other","Cambodia",""
-"56","AF","CM","CMR",120,"Cameroon","Africa","other","Cameroon",""
-"57",NA,"CA","CAN",124,"Canada","North America","other","Canada",""
-"58","AF","CV","CPV",132,"Cape Verde","Africa","other","Cape Verde",""
-"59",NA,"KY","CYM",136,"Cayman Islands","North America","other","Cayman Islands",""
-"60","AF","CF","CAF",140,"Central African Republic","Africa","other","Central African Republic",""
-"61","AS","LK","LKA",144,"Sri Lanka","Asia","other","Sri Lanka",""
-"62","AF","TD","TCD",148,"Chad","Africa","other","Chad",""
-"63","SA","CL","CHL",152,"Chile","South America","other","Chile",""
-"64","AS","CN","CHN",156,"China","Asia","other","China",""
-"65","AS","TW","TWN",158,"Taiwan","Asia","other","Taiwan",""
-"66","AS","CX","CXR",162,"Christmas Island","Asia","other","Christmas Island",""
-"67","AS","CC","CCK",166,"Cocos (Keeling) Islands","Asia","other","Cocos (Keeling) Islands",""
-"68","SA","CO","COL",170,"Colombia","South America","other","Colombia",""
-"69","AF","KM","COM",174,"Comoros","Africa","other","Comoros",""
-"70","AF","YT","MYT",175,"Mayotte","Africa","other","Mayotte",""
-"71","AF","CG","COG",178,"Congo","Africa","other","Congo",""
-"72","AF","CD","COD",180,"Congo","Africa","other","Congo",""
-"73","OC","CK","COK",184,"Cook Islands","Oceania","other","Cook Islands",""
-"74",NA,"CR","CRI",188,"Costa Rica","North America","other","Costa Rica",""
-"75",NA,"CU","CUB",192,"Cuba","North America","other","Cuba",""
-"76","EU","CY","CYP",196,"Cyprus","Europe","other","Kypros","Etelä-Eurooppa"
-"77","AF","BJ","BEN",204,"Benin","Africa","other","Benin",""
-"78","EU","DK","DNK",208,"Denmark","Europe","other","Tanska",""
-"79",NA,"DM","DMA",212,"Dominica","North America","other","Dominica",""
-"80",NA,"DO","DOM",214,"Dominican Republic","North America","other","Dominican Republic",""
-"81","SA","EC","ECU",218,"Ecuador","South America","other","Ecuador",""
-"82",NA,"SV","SLV",222,"El Salvador","North America","other","El Salvador",""
-"83","AF","GQ","GNQ",226,"Equatorial Guinea","Africa","other","Equatorial Guinea",""
-"84","AF","ET","ETH",231,"Ethiopia","Africa","other","Ethiopia",""
-"85","AF","ER","ERI",232,"Eritrea","Africa","other","Eritrea",""
-"86","EU","FO","FRO",234,"Faroe Islands","Europe","other","Faroe Islands",""
-"87","SA","FK","FLK",238,"Falkland Islands (Malvinas)","South America","other","Falkland Islands (Malvinas)",""
-"88","AN","GS","SGS",239,"South Georgia and the South Sandwich Islands","Antarctica","other","South Georgia and the South Sandwich Islands",""
-"89","OC","FJ","FJI",242,"Fiji","Oceania","other","Fiji",""
-"90","EU","FI","FIN",246,"Finland","Europe","other","Suomi","Pohjoismaat"
-"91","EU","AX","ALA",248,"Åland Islands","Europe","other","Ahvenanmaa",""
-"92","EU","FR","FRA",250,"France","Europe","other","Ranska","Läntinen Keski-Eurooppa"
-"93","SA","GF","GUF",254,"French Guiana","South America","other","French Guiana",""
-"94","OC","PF","PYF",258,"French Polynesia","Oceania","other","French Polynesia",""
-"95","AN","TF","ATF",260,"French Southern Territories","Antarctica","other","French Southern Territories",""
-"96","AF","DJ","DJI",262,"Djibouti","Africa","other","Djibouti",""
-"97","AF","GA","GAB",266,"Gabon","Africa","other","Gabon",""
-"98","AF","GM","GMB",270,"Gambia","Africa","other","Gambia",""
-"99","AS","PS","PSE",275,"Palestinian Territory","Asia","other","Palestinian Territory",""
-"100","EU","DE","DEU",276,"Germany","Europe","other","Saksa","Läntinen Keski-Eurooppa"
-"101","AF","GH","GHA",288,"Ghana","Africa","other","Ghana",""
-"102","EU","GI","GIB",292,"Gibraltar","Europe","other","Gibraltar",""
-"103","OC","KI","KIR",296,"Kiribati","Oceania","other","Kiribati",""
-"104","EU","GR","GRC",300,"Greece","Europe","other","Kreikka","Etelä-Eurooppa"
-"105",NA,"GL","GRL",304,"Greenland","North America","other","Greenland",""
-"106",NA,"GD","GRD",308,"Grenada","North America","other","Grenada",""
-"107",NA,"GP","GLP",312,"Guadeloupe","North America","other","Guadeloupe",""
-"108","OC","GU","GUM",316,"Guam","Oceania","other","Guam",""
-"109",NA,"GT","GTM",320,"Guatemala","North America","other","Guatemala",""
-"110","AF","GN","GIN",324,"Guinea","Africa","other","Guinea",""
-"111","SA","GY","GUY",328,"Guyana","South America","other","Guyana",""
-"112",NA,"HT","HTI",332,"Haiti","North America","other","Haiti",""
-"113","AN","HM","HMD",334,"Heard Island and McDonald Islands","Antarctica","other","Heard Island and McDonald Islands",""
-"114","EU","VA","VAT",336,"Holy See (Vatican City State)","Europe","other","Holy See (Vatican City State)",""
-"115",NA,"HN","HND",340,"Honduras","North America","other","Honduras",""
-"116","AS","HK","HKG",344,"Hong Kong","Asia","other","Hong Kong",""
-"117","EU","IS","ISL",352,"Iceland","Europe","other","Islanti","Pohjoismaat"
-"118","AS","IN","IND",356,"India","Asia","other","India",""
-"119","AS","ID","IDN",360,"Indonesia","Asia","other","Indonesia",""
-"120","AS","IR","IRN",364,"Iran","Asia","other","Iran",""
-"121","AS","IQ","IRQ",368,"Iraq","Asia","other","Iraq",""
-"122","EU","IE","IRL",372,"Ireland","Europe","other","Irlanti","Anglosaksiset maat"
-"123","AS","IL","ISR",376,"Israel","Asia","other","Israel","Etelä-Eurooppa"
-"124","EU","IT","ITA",380,"Italy","Europe","other","Italia","Etelä-Eurooppa"
-"125","AF","CI","CIV",384,"Cote d'Ivoire","Africa","other","Cote d'Ivoire",""
-"126",NA,"JM","JAM",388,"Jamaica","North America","other","Jamaica",""
-"127","AS","JP","JPN",392,"Japan","Asia","other","Japani",""
-"128","AS","JO","JOR",400,"Jordan","Asia","other","Jordan",""
-"129","AF","KE","KEN",404,"Kenya","Africa","other","Kenya",""
-"130","AS","KP","PRK",408,"Korea","Asia","other","Korea",""
-"131","AS","KR","KOR",410,"Korea","Asia","other","Korea",""
-"132","AS","KW","KWT",414,"Kuwait","Asia","other","Kuwait",""
-"133","AS","KG","KGZ",417,"Kyrgyz Republic","Asia","other","Kirgisia","Post-sosialistinen"
-"134","AS","LA","LAO",418,"Lao People's Democratic Republic","Asia","other","Lao People's Democratic Republic",""
-"135","AS","LB","LBN",422,"Lebanon","Asia","other","Lebanon",""
-"136","AF","LS","LSO",426,"Lesotho","Africa","other","Lesotho",""
-"137","AF","LR","LBR",430,"Liberia","Africa","other","Liberia",""
-"138","AF","LY","LBY",434,"Libyan Arab Jamahiriya","Africa","other","Libyan Arab Jamahiriya",""
-"139","EU","LI","LIE",438,"Liechtenstein","Europe","other","Liechtenstein","Läntinen Keski-Eurooppa"
-"140","EU","LU","LUX",442,"Luxembourg","Europe","other","Luxemburg","Läntinen Keski-Eurooppa"
-"141","AS","MO","MAC",446,"Macao","Asia","other","Macao",""
-"142","AF","MG","MDG",450,"Madagascar","Africa","other","Madagascar",""
-"143","AF","MW","MWI",454,"Malawi","Africa","other","Malawi",""
-"144","AS","MY","MYS",458,"Malaysia","Asia","other","Malaysia",""
-"145","AS","MV","MDV",462,"Maldives","Asia","other","Maldives",""
-"146","AF","ML","MLI",466,"Mali","Africa","other","Mali",""
-"147","EU","MT","MLT",470,"Malta","Europe","other","Malta","Etelä-Eurooppa"
-"148",NA,"MQ","MTQ",474,"Martinique","North America","other","Martinique",""
-"149","AF","MR","MRT",478,"Mauritania","Africa","other","Mauritania",""
-"150","AF","MU","MUS",480,"Mauritius","Africa","other","Mauritius",""
-"151",NA,"MX","MEX",484,"Mexico","North America","other","Mexico",""
-"152","EU","MC","MCO",492,"Monaco","Europe","other","Monaco","Etelä-Eurooppa"
-"153","AS","MN","MNG",496,"Mongolia","Asia","other","Mongolia",""
-"154",NA,"MS","MSR",500,"Montserrat","North America","other","Montserrat",""
-"155","AF","MA","MAR",504,"Morocco","Africa","other","Morocco",""
-"156","AF","MZ","MOZ",508,"Mozambique","Africa","other","Mozambique",""
-"157","AS","OM","OMN",512,"Oman","Asia","other","Oman",""
-"158","AF",NA,"NAM",516,"Namibia","Africa","other","Namibia",""
-"159","OC","NR","NRU",520,"Nauru","Oceania","other","Nauru",""
-"160","AS","NP","NPL",524,"Nepal","Asia","other","Nepal",""
-"161","EU","NL","NLD",528,"Netherlands","Europe","other","Alankomaat","Läntinen Keski-Eurooppa"
-"162",NA,"AN","ANT",530,"Netherlands Antilles","North America","other","Netherlands Antilles",""
-"163",NA,"CW","CUW",531,"Curaçao","North America","other","Curaçao",""
-"164",NA,"AW","ABW",533,"Aruba","North America","other","Aruba",""
-"165",NA,"SX","SXM",534,"Sint Maarten (Netherlands)","North America","other","Sint Maarten (Netherlands)",""
-"166",NA,"BQ","BES",535,"Bonaire","North America","other","Bonaire",""
-"167","OC","NC","NCL",540,"New Caledonia","Oceania","other","New Caledonia",""
-"168","OC","VU","VUT",548,"Vanuatu","Oceania","other","Vanuatu",""
-"169","OC","NZ","NZL",554,"New Zealand","Oceania","other","New Zealand",""
-"170",NA,"NI","NIC",558,"Nicaragua","North America","other","Nicaragua",""
-"171","AF","NE","NER",562,"Niger","Africa","other","Niger",""
-"172","AF","NG","NGA",566,"Nigeria","Africa","other","Nigeria",""
-"173","OC","NU","NIU",570,"Niue","Oceania","other","Niue",""
-"174","OC","NF","NFK",574,"Norfolk Island","Oceania","other","Norfolk Island",""
-"175","EU","NO","NOR",578,"Norway","Europe","other","Norja","Pohjoismaat"
-"176","OC","MP","MNP",580,"Northern Mariana Islands","Oceania","other","Northern Mariana Islands",""
-"177","OC","UM","UMI",581,"United States Minor Outlying Islands","Oceania","other","United States Minor Outlying Islands",""
-"178",NA,"UM","UMI",581,"United States Minor Outlying Islands","North America","other","United States Minor Outlying Islands",""
-"179","OC","FM","FSM",583,"Micronesia","Oceania","other","Micronesia",""
-"180","OC","MH","MHL",584,"Marshall Islands","Oceania","other","Marshall Islands",""
-"181","OC","PW","PLW",585,"Palau","Oceania","other","Palau",""
-"182","AS","PK","PAK",586,"Pakistan","Asia","other","Pakistan",""
-"183",NA,"PA","PAN",591,"Panama","North America","other","Panama",""
-"184","OC","PG","PNG",598,"Papua New Guinea","Oceania","other","Papua New Guinea",""
-"185","SA","PY","PRY",600,"Paraguay","South America","other","Paraguay",""
-"186","SA","PE","PER",604,"Peru","South America","other","Peru",""
-"187","AS","PH","PHL",608,"Philippines","Asia","other","Philippines",""
-"188","OC","PN","PCN",612,"Pitcairn Islands","Oceania","other","Pitcairn Islands",""
-"189","EU","PT","PRT",620,"Portugal","Europe","other","Portugali",""
-"190","AF","GW","GNB",624,"Guinea-Bissau","Africa","other","Guinea-Bissau",""
-"191","AS","TL","TLS",626,"Timor-Leste","Asia","other","Timor-Leste",""
-"192",NA,"PR","PRI",630,"Puerto Rico","North America","other","Puerto Rico",""
-"193","AS","QA","QAT",634,"Qatar","Asia","other","Qatar",""
-"194","AF","RE","REU",638,"Reunion","Africa","other","Reunion",""
-"195","AF","RW","RWA",646,"Rwanda","Africa","other","Rwanda",""
-"196",NA,"BL","BLM",652,"Saint Barthelemy","North America","other","Saint Barthelemy",""
-"197","AF","SH","SHN",654,"Saint Helena","Africa","other","Saint Helena",""
-"198",NA,"KN","KNA",659,"Saint Kitts and Nevis","North America","other","Saint Kitts and Nevis",""
-"199",NA,"AI","AIA",660,"Anguilla","North America","other","Anguilla",""
-"200",NA,"LC","LCA",662,"Saint Lucia","North America","other","Saint Lucia",""
-"201",NA,"MF","MAF",663,"Saint Martin","North America","other","Saint Martin",""
-"202",NA,"PM","SPM",666,"Saint Pierre and Miquelon","North America","other","Saint Pierre and Miquelon",""
-"203",NA,"VC","VCT",670,"Saint Vincent and the Grenadines","North America","other","Saint Vincent and the Grenadines",""
-"204","EU","SM","SMR",674,"San Marino","Europe","other","San Marino",""
-"205","AF","ST","STP",678,"Sao Tome and Principe","Africa","other","Sao Tome and Principe",""
-"206","AS","SA","SAU",682,"Saudi Arabia","Asia","other","Saudi Arabia",""
-"207","AF","SN","SEN",686,"Senegal","Africa","other","Senegal",""
-"208","AF","SC","SYC",690,"Seychelles","Africa","other","Seychelles",""
-"209","AF","SL","SLE",694,"Sierra Leone","Africa","other","Sierra Leone",""
-"210","AS","SG","SGP",702,"Singapore","Asia","other","Singapore",""
-"211","AS","VN","VNM",704,"Vietnam","Asia","other","Vietnam",""
-"212","AF","SO","SOM",706,"Somalia","Africa","other","Somalia",""
-"213","AF","ZA","ZAF",710,"South Africa","Africa","other","South Africa",""
-"214","AF","ZW","ZWE",716,"Zimbabwe","Africa","other","Zimbabwe",""
-"215","EU","ES","ESP",724,"Spain","Europe","other","Espanja","Etelä-Eurooppa"
-"216","AF","SS","SSD",728,"South Sudan","Africa","other","South Sudan",""
-"217","AF","EH","ESH",732,"Western Sahara","Africa","other","Western Sahara",""
-"218","AF","SD","SDN",736,"Sudan","Africa","other","Sudan",""
-"219","SA","SR","SUR",740,"Suriname","South America","other","Suriname",""
-"220","EU","SJ","SJM",744,"Svalbard & Jan Mayen Islands","Europe","other","Svalbard & Jan Mayen Islands",""
-"221","AF","SZ","SWZ",748,"Swaziland","Africa","other","Swaziland",""
-"222","EU","SE","SWE",752,"Sweden","Europe","other","Ruotsi","Pohjoismaat"
-"223","EU","CH","CHE",756,"Switzerland","Europe","other","Switzerland",""
-"224","AS","SY","SYR",760,"Syrian Arab Republic","Asia","other","Syrian Arab Republic",""
-"225","AS","TH","THA",764,"Thailand","Asia","other","Thailand",""
-"226","AF","TG","TGO",768,"Togo","Africa","other","Togo",""
-"227","OC","TK","TKL",772,"Tokelau","Oceania","other","Tokelau",""
-"228","OC","TO","TON",776,"Tonga","Oceania","other","Tonga",""
-"229",NA,"TT","TTO",780,"Trinidad and Tobago","North America","other","Trinidad and Tobago",""
-"230","AS","AE","ARE",784,"United Arab Emirates","Asia","other","United Arab Emirates",""
-"231","AF","TN","TUN",788,"Tunisia","Africa","other","Tunisia",""
-"232","EU","TR","TUR",792,"Turkey","Europe","other","Turkki","Etelä-Eurooppa"
-"233","AS","TR","TUR",792,"Turkey","Asia","other","Turkki","Etelä-Eurooppa"
-"234",NA,"TC","TCA",796,"Turks and Caicos Islands","North America","other","Turks and Caicos Islands",""
-"235","OC","TV","TUV",798,"Tuvalu","Oceania","other","Tuvalu",""
-"236","AF","UG","UGA",800,"Uganda","Africa","other","Uganda",""
-"237","EU","MK","MKD",807,"Macedonia","Europe","other","Makedonia","Post-sosialistinen"
-"238","AF","EG","EGY",818,"Egypt","Africa","other","Egypti",""
-"239","EU","GB","GBR",826,"United Kingdom of Great Britain & Northern Ireland","Europe","other","Iso-Britannia","Anglosaksiset maat"
-"240","EU","GG","GGY",831,"Guernsey","Europe","other","Guernsey",""
-"241","EU","JE","JEY",832,"Jersey","Europe","other","Jersey",""
-"242","EU","IM","IMN",833,"Isle of Man","Europe","other","Isle of Man",""
-"243","AF","TZ","TZA",834,"Tanzania","Africa","other","Tanzania",""
-"244",NA,"US","USA",840,"United States of America","North America","other","United States of America",""
-"245",NA,"VI","VIR",850,"United States Virgin Islands","North America","other","United States Virgin Islands",""
-"246","AF","BF","BFA",854,"Burkina Faso","Africa","other","Burkina Faso",""
-"247","SA","UY","URY",858,"Uruguay","South America","other","Uruguay",""
-"248","SA","VE","VEN",862,"Venezuela","South America","other","Venezuela",""
-"249","OC","WF","WLF",876,"Wallis and Futuna","Oceania","other","Wallis and Futuna",""
-"250","OC","WS","WSM",882,"Samoa","Oceania","other","Samoa",""
-"251","AS","YE","YEM",887,"Yemen","Asia","other","Yemen",""
-"252","AF","ZM","ZMB",894,"Zambia","Africa","other","Zambia",""
+,contCode,cCode2,cCode3,cNr,cntryName,contName,group1,maa,ryhma1
+1,EU,AZ,AZE,31,Azerbaijan,Europe,Caucasus,Azerbaidžan,Post-sosialistinen
+2,EU,GE,GEO,268,Georgia,Europe,Caucasus,Georgia,Post-sosialistinen
+3,AS,KZ,KAZ,398,Kazakhstan,Asia,Central Asia,Kazakstan,Post-sosialistinen
+4,AS,TJ,TJK,762,Tajikistan,Asia,Central Asia,Tadžikistan,Post-sosialistinen
+5,AS,TM,TKM,795,Turkmenistan,Asia,Central Asia,Turkmenistan,Post-sosialistinen
+6,AS,UZ,UZB,860,Uzbekistan,Asia,Central Asia,Uzbekistan,Post-sosialistinen
+7,EU,AL,ALB,8,Albania,Europe,Eastern Europe,Albania,Post-sosialistinen
+8,EU,BA,BIH,70,Bosnia and Herzegovina,Europe,Ex-Jugoslavia,Bosnia ja Hertsegovina,Post-sosialistinen
+9,EU,BG,BGR,100,Bulgaria,Europe,Eastern Europe,Bulgaria,Post-sosialistinen
+10,EU,HR,HRV,191,Croatia,Europe,Ex-Jugoslavia,Kroatia,Post-sosialistinen
+11,EU,CZ,CZE,203,Czech Republic,Europe,Eastern Europe,Tšekki,Post-sosialistinen
+12,EU,EE,EST,233,Estonia,Europe,Baltics,Viro,Post-sosialistinen
+13,EU,HU,HUN,348,Hungary,Europe,Eastern Europe,Unkari,Post-sosialistinen
+14,EU,LV,LVA,428,Latvia,Europe,Baltics,Latvia,Post-sosialistinen
+15,EU,LT,LTU,440,Lithuania,Europe,Baltics,Liettua,Post-sosialistinen
+16,EU,ME,MNE,499,Montenegro,Europe,Ex-Jugoslavia,Montenegro,Post-sosialistinen
+17,EU,PL,POL,616,Poland,Europe,Eastern Europe,Puola,Post-sosialistinen
+18,EU,RO,ROU,642,Romania,Europe,Eastern Europe,Romania,Post-sosialistinen
+19,EU,RS,SRB,688,Serbia,Europe,Ex-Jugoslavia,Serbia,Post-sosialistinen
+20,EU,SK,SVK,703,Slovakia (Slovak Republic),Europe,Eastern Europe,Slovakia,Post-sosialistinen
+21,EU,SI,SVN,705,Slovenia,Europe,Ex-Jugoslavia,Slovenia,Post-sosialistinen
+22,EU,BY,BLR,112,Belarus,Europe,Post-Soviet,Valko-Venäjä,Post-sosialistinen
+23,EU,MD,MDA,498,Moldova,Europe,Post-Soviet,Moldova,Post-sosialistinen
+24,EU,UA,UKR,804,Ukraine,Europe,Post-Soviet,Ukraina,Post-sosialistinen
+25,EU,RU,RUS,643,Russian Federation,Europe,Russia,Venäjä,Post-sosialistinen
+26,AS,AF,AFG,4,Afghanistan,Asia,Central Asia,Afganistan,Post-sosialistinen
+27,AN,AQ,ATA,10,Antarctica (the territory South of 60 deg S),Antarctica,other,Antarctica (the territory South of 60 deg S),muu
+28,AF,DZ,DZA,12,Algeria,Africa,other,Algeria,muu
+29,OC,AS,ASM,16,American Samoa,Oceania,other,American Samoa,muu
+30,EU,AD,AND,20,Andorra,Europe,other,Andorra,muu
+31,AF,AO,AGO,24,Angola,Africa,other,Angola,muu
+32,NA,AG,ATG,28,Antigua and Barbuda,North America,other,Antigua and Barbuda,muu
+33,SA,AR,ARG,32,Argentina,South America,other,Argentina,muu
+34,OC,AU,AUS,36,Australia,Oceania,other,Australia,muu
+35,EU,AT,AUT,40,Austria,Europe,other,Itävalta,muu
+36,NA,BS,BHS,44,Bahamas,North America,other,Bahama,muu
+37,AS,BH,BHR,48,Bahrain,Asia,other,Bahrain,muu
+38,AS,BD,BGD,50,Bangladesh,Asia,other,Bangladesh,muu
+39,EU,AM,ARM,51,Armenia,Europe,other,Armenia,muu
+40,NA,BB,BRB,52,Barbados,North America,other,Barbados,muu
+41,EU,BE,BEL,56,Belgium,Europe,other,Belgia,Läntinen Keski-Eurooppa
+42,NA,BM,BMU,60,Bermuda,North America,other,Bermuda,muu
+43,AS,BT,BTN,64,Bhutan,Asia,other,Bhutan,muu
+44,SA,BO,BOL,68,Bolivia,South America,other,Bolivia,muu
+45,AF,BW,BWA,72,Botswana,Africa,other,Botswana,muu
+46,AN,BV,BVT,74,Bouvet Island (Bouvetoya),Antarctica,other,Bouvet Island (Bouvetoya),muu
+47,SA,BR,BRA,76,Brazil,South America,other,Brazil,muu
+48,NA,BZ,BLZ,84,Belize,North America,other,Belize,muu
+49,AS,IO,IOT,86,British Indian Ocean Territory (Chagos Archipelago),Asia,other,British Indian Ocean Territory (Chagos Archipelago),muu
+50,OC,SB,SLB,90,Solomon Islands,Oceania,other,Solomon Islands,muu
+51,NA,VG,VGB,92,British Virgin Islands,North America,other,British Virgin Islands,muu
+52,AS,BN,BRN,96,Brunei Darussalam,Asia,other,Brunei Darussalam,muu
+53,AS,MM,MMR,104,Myanmar,Asia,other,Myanmar,muu
+54,AF,BI,BDI,108,Burundi,Africa,other,Burundi,muu
+55,AS,KH,KHM,116,Cambodia,Asia,other,Cambodia,muu
+56,AF,CM,CMR,120,Cameroon,Africa,other,Cameroon,muu
+57,NA,CA,CAN,124,Canada,North America,other,Canada,muu
+58,AF,CV,CPV,132,Cape Verde,Africa,other,Cape Verde,muu
+59,NA,KY,CYM,136,Cayman Islands,North America,other,Cayman Islands,muu
+60,AF,CF,CAF,140,Central African Republic,Africa,other,Central African Republic,muu
+61,AS,LK,LKA,144,Sri Lanka,Asia,other,Sri Lanka,muu
+62,AF,TD,TCD,148,Chad,Africa,other,Chad,muu
+63,SA,CL,CHL,152,Chile,South America,other,Chile,muu
+64,AS,CN,CHN,156,China,Asia,other,China,muu
+65,AS,TW,TWN,158,Taiwan,Asia,other,Taiwan,muu
+66,AS,CX,CXR,162,Christmas Island,Asia,other,Christmas Island,muu
+67,AS,CC,CCK,166,Cocos (Keeling) Islands,Asia,other,Cocos (Keeling) Islands,muu
+68,SA,CO,COL,170,Colombia,South America,other,Colombia,muu
+69,AF,KM,COM,174,Comoros,Africa,other,Comoros,muu
+70,AF,YT,MYT,175,Mayotte,Africa,other,Mayotte,muu
+71,AF,CG,COG,178,Congo,Africa,other,Congo,muu
+72,AF,CD,COD,180,Congo,Africa,other,Congo,muu
+73,OC,CK,COK,184,Cook Islands,Oceania,other,Cook Islands,muu
+74,NA,CR,CRI,188,Costa Rica,North America,other,Costa Rica,muu
+75,NA,CU,CUB,192,Cuba,North America,other,Cuba,muu
+76,EU,CY,CYP,196,Cyprus,Europe,other,Kypros,Etelä-Eurooppa
+77,AF,BJ,BEN,204,Benin,Africa,other,Benin,muu
+78,EU,DK,DNK,208,Denmark,Europe,other,Tanska,muu
+79,NA,DM,DMA,212,Dominica,North America,other,Dominica,muu
+80,NA,DO,DOM,214,Dominican Republic,North America,other,Dominican Republic,muu
+81,SA,EC,ECU,218,Ecuador,South America,other,Ecuador,muu
+82,NA,SV,SLV,222,El Salvador,North America,other,El Salvador,muu
+83,AF,GQ,GNQ,226,Equatorial Guinea,Africa,other,Equatorial Guinea,muu
+84,AF,ET,ETH,231,Ethiopia,Africa,other,Ethiopia,muu
+85,AF,ER,ERI,232,Eritrea,Africa,other,Eritrea,muu
+86,EU,FO,FRO,234,Faroe Islands,Europe,other,Faroe Islands,muu
+87,SA,FK,FLK,238,Falkland Islands (Malvinas),South America,other,Falkland Islands (Malvinas),muu
+88,AN,GS,SGS,239,South Georgia and the South Sandwich Islands,Antarctica,other,South Georgia and the South Sandwich Islands,muu
+89,OC,FJ,FJI,242,Fiji,Oceania,other,Fiji,muu
+90,EU,FI,FIN,246,Finland,Europe,other,Suomi,Pohjoismaat
+91,EU,AX,ALA,248,Åland Islands,Europe,other,Ahvenanmaa,muu
+92,EU,FR,FRA,250,France,Europe,other,Ranska,Läntinen Keski-Eurooppa
+93,SA,GF,GUF,254,French Guiana,South America,other,French Guiana,muu
+94,OC,PF,PYF,258,French Polynesia,Oceania,other,French Polynesia,muu
+95,AN,TF,ATF,260,French Southern Territories,Antarctica,other,French Southern Territories,muu
+96,AF,DJ,DJI,262,Djibouti,Africa,other,Djibouti,muu
+97,AF,GA,GAB,266,Gabon,Africa,other,Gabon,muu
+98,AF,GM,GMB,270,Gambia,Africa,other,Gambia,muu
+99,AS,PS,PSE,275,Palestinian Territory,Asia,other,Palestinian Territory,muu
+100,EU,DE,DEU,276,Germany,Europe,other,Saksa,Läntinen Keski-Eurooppa
+101,AF,GH,GHA,288,Ghana,Africa,other,Ghana,muu
+102,EU,GI,GIB,292,Gibraltar,Europe,other,Gibraltar,muu
+103,OC,KI,KIR,296,Kiribati,Oceania,other,Kiribati,muu
+104,EU,GR,GRC,300,Greece,Europe,other,Kreikka,Etelä-Eurooppa
+105,NA,GL,GRL,304,Greenland,North America,other,Greenland,muu
+106,NA,GD,GRD,308,Grenada,North America,other,Grenada,muu
+107,NA,GP,GLP,312,Guadeloupe,North America,other,Guadeloupe,muu
+108,OC,GU,GUM,316,Guam,Oceania,other,Guam,muu
+109,NA,GT,GTM,320,Guatemala,North America,other,Guatemala,muu
+110,AF,GN,GIN,324,Guinea,Africa,other,Guinea,muu
+111,SA,GY,GUY,328,Guyana,South America,other,Guyana,muu
+112,NA,HT,HTI,332,Haiti,North America,other,Haiti,muu
+113,AN,HM,HMD,334,Heard Island and McDonald Islands,Antarctica,other,Heard Island and McDonald Islands,muu
+114,EU,VA,VAT,336,Holy See (Vatican City State),Europe,other,Holy See (Vatican City State),muu
+115,NA,HN,HND,340,Honduras,North America,other,Honduras,muu
+116,AS,HK,HKG,344,Hong Kong,Asia,other,Hong Kong,muu
+117,EU,IS,ISL,352,Iceland,Europe,other,Islanti,Pohjoismaat
+118,AS,IN,IND,356,India,Asia,other,India,muu
+119,AS,ID,IDN,360,Indonesia,Asia,other,Indonesia,muu
+120,AS,IR,IRN,364,Iran,Asia,other,Iran,muu
+121,AS,IQ,IRQ,368,Iraq,Asia,other,Iraq,muu
+122,EU,IE,IRL,372,Ireland,Europe,other,Irlanti,Anglosaksiset maat
+123,AS,IL,ISR,376,Israel,Asia,other,Israel,Etelä-Eurooppa
+124,EU,IT,ITA,380,Italy,Europe,other,Italia,Etelä-Eurooppa
+125,AF,CI,CIV,384,Cote d'Ivoire,Africa,other,Cote d'Ivoire,muu
+126,NA,JM,JAM,388,Jamaica,North America,other,Jamaica,muu
+127,AS,JP,JPN,392,Japan,Asia,other,Japani,muu
+128,AS,JO,JOR,400,Jordan,Asia,other,Jordan,muu
+129,AF,KE,KEN,404,Kenya,Africa,other,Kenya,muu
+130,AS,KP,PRK,408,Korea,Asia,other,Korea,muu
+131,AS,KR,KOR,410,Korea,Asia,other,Korea,muu
+132,AS,KW,KWT,414,Kuwait,Asia,other,Kuwait,muu
+133,AS,KG,KGZ,417,Kyrgyz Republic,Asia,other,Kirgisia,Post-sosialistinen
+134,AS,LA,LAO,418,Lao People's Democratic Republic,Asia,other,Lao People's Democratic Republic,muu
+135,AS,LB,LBN,422,Lebanon,Asia,other,Lebanon,muu
+136,AF,LS,LSO,426,Lesotho,Africa,other,Lesotho,muu
+137,AF,LR,LBR,430,Liberia,Africa,other,Liberia,muu
+138,AF,LY,LBY,434,Libyan Arab Jamahiriya,Africa,other,Libyan Arab Jamahiriya,muu
+139,EU,LI,LIE,438,Liechtenstein,Europe,other,Liechtenstein,Läntinen Keski-Eurooppa
+140,EU,LU,LUX,442,Luxembourg,Europe,other,Luxemburg,Läntinen Keski-Eurooppa
+141,AS,MO,MAC,446,Macao,Asia,other,Macao,muu
+142,AF,MG,MDG,450,Madagascar,Africa,other,Madagascar,muu
+143,AF,MW,MWI,454,Malawi,Africa,other,Malawi,muu
+144,AS,MY,MYS,458,Malaysia,Asia,other,Malaysia,muu
+145,AS,MV,MDV,462,Maldives,Asia,other,Maldives,muu
+146,AF,ML,MLI,466,Mali,Africa,other,Mali,muu
+147,EU,MT,MLT,470,Malta,Europe,other,Malta,Etelä-Eurooppa
+148,NA,MQ,MTQ,474,Martinique,North America,other,Martinique,muu
+149,AF,MR,MRT,478,Mauritania,Africa,other,Mauritania,muu
+150,AF,MU,MUS,480,Mauritius,Africa,other,Mauritius,muu
+151,NA,MX,MEX,484,Mexico,North America,other,Mexico,muu
+152,EU,MC,MCO,492,Monaco,Europe,other,Monaco,Etelä-Eurooppa
+153,AS,MN,MNG,496,Mongolia,Asia,other,Mongolia,muu
+154,NA,MS,MSR,500,Montserrat,North America,other,Montserrat,muu
+155,AF,MA,MAR,504,Morocco,Africa,other,Morocco,muu
+156,AF,MZ,MOZ,508,Mozambique,Africa,other,Mozambique,muu
+157,AS,OM,OMN,512,Oman,Asia,other,Oman,muu
+158,AF,NA,NAM,516,Namibia,Africa,other,Namibia,muu
+159,OC,NR,NRU,520,Nauru,Oceania,other,Nauru,muu
+160,AS,NP,NPL,524,Nepal,Asia,other,Nepal,muu
+161,EU,NL,NLD,528,Netherlands,Europe,other,Alankomaat,Läntinen Keski-Eurooppa
+162,NA,AN,ANT,530,Netherlands Antilles,North America,other,Netherlands Antilles,muu
+163,NA,CW,CUW,531,Curaçao,North America,other,Curaçao,muu
+164,NA,AW,ABW,533,Aruba,North America,other,Aruba,muu
+165,NA,SX,SXM,534,Sint Maarten (Netherlands),North America,other,Sint Maarten (Netherlands),muu
+166,NA,BQ,BES,535,Bonaire,North America,other,Bonaire,muu
+167,OC,NC,NCL,540,New Caledonia,Oceania,other,New Caledonia,muu
+168,OC,VU,VUT,548,Vanuatu,Oceania,other,Vanuatu,muu
+169,OC,NZ,NZL,554,New Zealand,Oceania,other,New Zealand,muu
+170,NA,NI,NIC,558,Nicaragua,North America,other,Nicaragua,muu
+171,AF,NE,NER,562,Niger,Africa,other,Niger,muu
+172,AF,NG,NGA,566,Nigeria,Africa,other,Nigeria,muu
+173,OC,NU,NIU,570,Niue,Oceania,other,Niue,muu
+174,OC,NF,NFK,574,Norfolk Island,Oceania,other,Norfolk Island,muu
+175,EU,NO,NOR,578,Norway,Europe,other,Norja,Pohjoismaat
+176,OC,MP,MNP,580,Northern Mariana Islands,Oceania,other,Northern Mariana Islands,muu
+177,OC,UM,UMI,581,United States Minor Outlying Islands,Oceania,other,United States Minor Outlying Islands,muu
+178,NA,UM,UMI,581,United States Minor Outlying Islands,North America,other,United States Minor Outlying Islands,muu
+179,OC,FM,FSM,583,Micronesia,Oceania,other,Micronesia,muu
+180,OC,MH,MHL,584,Marshall Islands,Oceania,other,Marshall Islands,muu
+181,OC,PW,PLW,585,Palau,Oceania,other,Palau,muu
+182,AS,PK,PAK,586,Pakistan,Asia,other,Pakistan,muu
+183,NA,PA,PAN,591,Panama,North America,other,Panama,muu
+184,OC,PG,PNG,598,Papua New Guinea,Oceania,other,Papua New Guinea,muu
+185,SA,PY,PRY,600,Paraguay,South America,other,Paraguay,muu
+186,SA,PE,PER,604,Peru,South America,other,Peru,muu
+187,AS,PH,PHL,608,Philippines,Asia,other,Philippines,muu
+188,OC,PN,PCN,612,Pitcairn Islands,Oceania,other,Pitcairn Islands,muu
+189,EU,PT,PRT,620,Portugal,Europe,other,Portugali,muu
+190,AF,GW,GNB,624,Guinea-Bissau,Africa,other,Guinea-Bissau,muu
+191,AS,TL,TLS,626,Timor-Leste,Asia,other,Timor-Leste,muu
+192,NA,PR,PRI,630,Puerto Rico,North America,other,Puerto Rico,muu
+193,AS,QA,QAT,634,Qatar,Asia,other,Qatar,muu
+194,AF,RE,REU,638,Reunion,Africa,other,Reunion,muu
+195,AF,RW,RWA,646,Rwanda,Africa,other,Rwanda,muu
+196,NA,BL,BLM,652,Saint Barthelemy,North America,other,Saint Barthelemy,muu
+197,AF,SH,SHN,654,Saint Helena,Africa,other,Saint Helena,muu
+198,NA,KN,KNA,659,Saint Kitts and Nevis,North America,other,Saint Kitts and Nevis,muu
+199,NA,AI,AIA,660,Anguilla,North America,other,Anguilla,muu
+200,NA,LC,LCA,662,Saint Lucia,North America,other,Saint Lucia,muu
+201,NA,MF,MAF,663,Saint Martin,North America,other,Saint Martin,muu
+202,NA,PM,SPM,666,Saint Pierre and Miquelon,North America,other,Saint Pierre and Miquelon,muu
+203,NA,VC,VCT,670,Saint Vincent and the Grenadines,North America,other,Saint Vincent and the Grenadines,muu
+204,EU,SM,SMR,674,San Marino,Europe,other,San Marino,muu
+205,AF,ST,STP,678,Sao Tome and Principe,Africa,other,Sao Tome and Principe,muu
+206,AS,SA,SAU,682,Saudi Arabia,Asia,other,Saudi Arabia,muu
+207,AF,SN,SEN,686,Senegal,Africa,other,Senegal,muu
+208,AF,SC,SYC,690,Seychelles,Africa,other,Seychelles,muu
+209,AF,SL,SLE,694,Sierra Leone,Africa,other,Sierra Leone,muu
+210,AS,SG,SGP,702,Singapore,Asia,other,Singapore,muu
+211,AS,VN,VNM,704,Vietnam,Asia,other,Vietnam,muu
+212,AF,SO,SOM,706,Somalia,Africa,other,Somalia,muu
+213,AF,ZA,ZAF,710,South Africa,Africa,other,South Africa,muu
+214,AF,ZW,ZWE,716,Zimbabwe,Africa,other,Zimbabwe,muu
+215,EU,ES,ESP,724,Spain,Europe,other,Espanja,Etelä-Eurooppa
+216,AF,SS,SSD,728,South Sudan,Africa,other,South Sudan,muu
+217,AF,EH,ESH,732,Western Sahara,Africa,other,Western Sahara,muu
+218,AF,SD,SDN,736,Sudan,Africa,other,Sudan,muu
+219,SA,SR,SUR,740,Suriname,South America,other,Suriname,muu
+220,EU,SJ,SJM,744,Svalbard & Jan Mayen Islands,Europe,other,Svalbard & Jan Mayen Islands,muu
+221,AF,SZ,SWZ,748,Swaziland,Africa,other,Swaziland,muu
+222,EU,SE,SWE,752,Sweden,Europe,other,Ruotsi,Pohjoismaat
+223,EU,CH,CHE,756,Switzerland,Europe,other,Switzerland,muu
+224,AS,SY,SYR,760,Syrian Arab Republic,Asia,other,Syrian Arab Republic,muu
+225,AS,TH,THA,764,Thailand,Asia,other,Thailand,muu
+226,AF,TG,TGO,768,Togo,Africa,other,Togo,muu
+227,OC,TK,TKL,772,Tokelau,Oceania,other,Tokelau,muu
+228,OC,TO,TON,776,Tonga,Oceania,other,Tonga,muu
+229,NA,TT,TTO,780,Trinidad and Tobago,North America,other,Trinidad and Tobago,muu
+230,AS,AE,ARE,784,United Arab Emirates,Asia,other,United Arab Emirates,muu
+231,AF,TN,TUN,788,Tunisia,Africa,other,Tunisia,muu
+232,EU,TR,TUR,792,Turkey,Europe,other,Turkki,Etelä-Eurooppa
+233,AS,TR,TUR,792,Turkey,Asia,other,Turkki,Etelä-Eurooppa
+234,NA,TC,TCA,796,Turks and Caicos Islands,North America,other,Turks and Caicos Islands,muu
+235,OC,TV,TUV,798,Tuvalu,Oceania,other,Tuvalu,muu
+236,AF,UG,UGA,800,Uganda,Africa,other,Uganda,muu
+237,EU,MK,MKD,807,Macedonia,Europe,other,Makedonia,Post-sosialistinen
+238,AF,EG,EGY,818,Egypt,Africa,other,Egypti,muu
+239,EU,GB,GBR,826,United Kingdom of Great Britain & Northern Ireland,Europe,other,Iso-Britannia,Anglosaksiset maat
+240,EU,GG,GGY,831,Guernsey,Europe,other,Guernsey,muu
+241,EU,JE,JEY,832,Jersey,Europe,other,Jersey,muu
+242,EU,IM,IMN,833,Isle of Man,Europe,other,Isle of Man,muu
+243,AF,TZ,TZA,834,Tanzania,Africa,other,Tanzania,muu
+244,NA,US,USA,840,United States of America,North America,other,United States of America,muu
+245,NA,VI,VIR,850,United States Virgin Islands,North America,other,United States Virgin Islands,muu
+246,AF,BF,BFA,854,Burkina Faso,Africa,other,Burkina Faso,muu
+247,SA,UY,URY,858,Uruguay,South America,other,Uruguay,muu
+248,SA,VE,VEN,862,Venezuela,South America,other,Venezuela,muu
+249,OC,WF,WLF,876,Wallis and Futuna,Oceania,other,Wallis and Futuna,muu
+250,OC,WS,WSM,882,Samoa,Oceania,other,Samoa,muu
+251,AS,YE,YEM,887,Yemen,Asia,other,Yemen,muu
+252,AF,ZM,ZMB,894,Zambia,Africa,other,Zambia,muu
