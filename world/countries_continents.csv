@@ -76,7 +76,7 @@
 75,NA,CU,CUB,192,Cuba,North America,other,Cuba,muu
 76,EU,CY,CYP,196,Cyprus,Europe,other,Kypros,Etelä-Eurooppa
 77,AF,BJ,BEN,204,Benin,Africa,other,Benin,muu
-78,EU,DK,DNK,208,Denmark,Europe,other,Tanska,muu
+78,EU,DK,DNK,208,Denmark,Europe,other,Tanska,Pohjoismaat
 79,NA,DM,DMA,212,Dominica,North America,other,Dominica,muu
 80,NA,DO,DOM,214,Dominican Republic,North America,other,Dominican Republic,muu
 81,SA,EC,ECU,218,Ecuador,South America,other,Ecuador,muu
@@ -221,7 +221,7 @@
 220,EU,SJ,SJM,744,Svalbard & Jan Mayen Islands,Europe,other,Svalbard & Jan Mayen Islands,muu
 221,AF,SZ,SWZ,748,Swaziland,Africa,other,Swaziland,muu
 222,EU,SE,SWE,752,Sweden,Europe,other,Ruotsi,Pohjoismaat
-223,EU,CH,CHE,756,Switzerland,Europe,other,Switzerland,muu
+223,EU,CH,CHE,756,Switzerland,Europe,other,Sveitsi,Läntinen Keski-Eurooppa
 224,AS,SY,SYR,760,Syrian Arab Republic,Asia,other,Syrian Arab Republic,muu
 225,AS,TH,THA,764,Thailand,Asia,other,Thailand,muu
 226,AF,TG,TGO,768,Togo,Africa,other,Togo,muu
