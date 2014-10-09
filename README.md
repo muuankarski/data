@@ -32,6 +32,17 @@ dat <- read.csv(text = GHurl)
 
 Several regional coding to match cyrillic region names with shapefiles from [gadm.org](http://www.gadm.org/)
 
+
+### Russian regions
+
+```
+library(RCurl)
+GHurl <- getURL("https://raw.githubusercontent.com/muuankarski/data/master/russia/regionkey.csv")
+dat <- read.csv(text = GHurl)
+```
+
+
+
 ### Karelia region key
 
 ```
