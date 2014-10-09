@@ -47,7 +47,7 @@ dat <- read.csv(text = GHurl)
 
 ```
 library(RCurl)
-GHurl <- getURL("https://raw.github.com/muuankarski/data/master/russia/karelia_key_rayon.csv")
+GHurl <- getURL("https://raw.githubusercontent.com/muuankarski/data/master/russia/karelia_key_rayon.csv")
 dat <- read.csv(text = GHurl)
 ```
 
@@ -55,6 +55,6 @@ dat <- read.csv(text = GHurl)
 
 ```
 library(RCurl)
-GHurl <- getURL("https://raw.github.com/muuankarski/data/master/russia/nizhni_key_rayon.csv")
+GHurl <- getURL("https://raw.githubusercontent.com/muuankarski/data/master/russia/nizhni_key_rayon.csv")
 dat <- read.csv(text = GHurl)
 ```
