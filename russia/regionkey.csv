@@ -1,4 +1,4 @@
-idx,russian,ID,NAME_1,Oblast_en,federal_district,economic_regions
+idx,russian,ID,NAME_1,region_en,federal_district,economic_regions
 20,г. Москва,0,Moscow,Moscow,Central Federal District,Central
 34,Республика Адыгея,2511,Adygea,Republic of Adygea,Southern Federal District,North Caucasus
 76,Алтайский край,2513,Altai Territory,Altai Krai,Siberian Federal District,West Siberian
@@ -82,4 +82,4 @@ idx,russian,ID,NAME_1,Oblast_en,federal_district,economic_regions
 19,Ямало-Ненецкий автономный округ,2596,Yamalo-Nenets Autonomous District,Yamalo-Nenets Autonomous Okrug,Ural Federal District,West Siberian
 ,Ярославская область,2597,Yaroslavl Region,Yaroslavl Oblast,Central Federal District,Central
 92,Еврейская автономная область,2598,Jewish Autonomous Region,Jewish Autonomous Oblast,Far Eastern Federal District,Far Eastern
-39,Российская Федерация,NA,Russian Federation,Russian Federation,,
+39,Российская Федерация,NA,Russian Federation,,,
