@@ -33,7 +33,7 @@ idx,russian,ID,NAME_1,region_en,type_of_subject,federal_district,economic_region
 11,Липецкая область,2554,Lipetsk region,Lipetsk Oblast,oblast,Central Federal District,Central Black Earth
 90,Магаданская область,2555,Magadan region,Magadan Oblast,oblast,Far Eastern Federal District,Far Eastern
 50,Республика Марий Эл,2556,Mari El Republic,Mari El Republic,republic,Volga Federal District,Volga-Vyatka
-20,г. Москва,0,Moscow,Moscow,federal city,Central Federal District,Central
+20,г.Москва,0,Moscow,Moscow,federal city,Central Federal District,Central
 12,Московская область,2558,Moscow region,Moscow Oblast,oblast,Central Federal District,Central
 29,Мурманская область,2559,Murmansk region,Murmansk Oblast,oblast,Northwestern Federal District,Northern
 25,в том числе Ненецкий автономный округ,2560,Nenets Autonomous District,Nenets Autonomous District,autonomous okrug,Northwestern Federal District,Northern
