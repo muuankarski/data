@@ -226,7 +226,7 @@
 15,EU,LT,LTU,440,Lithuania,Europe,Baltics,Liettua,Post-sosialistinen,0,1,0,1,0,0,0,0,0,1,0
 1,EU,AZ,AZE,31,Azerbaijan,Europe,Caucasus,Azerbaidžan,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0
 2,EU,GE,GEO,268,Georgia,Europe,Caucasus,Georgia,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0
-26,AS,AF,AFG,4,Afghanistan,Asia,Central Asia,Afganistan,Post-sosialistinen,0,0,0,0,1,0,0,0,0,1,0
+26,AS,AF,AFG,4,Afghanistan,Asia,Central Asia,Afganistan,muu,0,0,0,0,1,0,0,0,0,0,0
 3,AS,KZ,KAZ,398,Kazakhstan,Asia,Central Asia,Kazakstan,Post-sosialistinen,0,0,0,0,1,0,0,0,0,1,0
 4,AS,TJ,TJK,762,Tajikistan,Asia,Central Asia,Tadžikistan,Post-sosialistinen,0,0,0,0,1,0,0,0,0,1,0
 5,AS,TM,TKM,795,Turkmenistan,Asia,Central Asia,Turkmenistan,Post-sosialistinen,0,0,0,0,1,0,0,0,0,1,0
