@@ -1,252 +1,252 @@
-"","X","contCode","cCode2","cCode3","cNr","cntryName","contName","group1","maa","ryhma1","EU15","EU27","OECD","europe","asia","north_america","south_america","africa","oceania","postsos","nordic","mannerNimi"
-"1",239,"EU","GB","GBR",826,"United Kingdom","Europe","other","Iso-Britannia","Anglosaksiset maat",1,1,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"2",122,"EU","IE","IRL",372,"Ireland","Europe","other","Irlanti","Anglosaksiset maat",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"3",104,"EU","GR","GRC",300,"Greece","Europe","other","Kreikka","Etelä-Eurooppa",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"4",124,"EU","IT","ITA",380,"Italy","Europe","other","Italia","Etelä-Eurooppa",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"5",215,"EU","ES","ESP",724,"Spain","Europe","other","Espanja","Etelä-Eurooppa",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"6",123,"AS","IL","ISR",376,"Israel","Asia","other","Israel","Etelä-Eurooppa",0,0,1,0,1,0,0,0,0,0,0,"Aasia"
-"7",233,"AS","TR","TUR",792,"Turkey","Asia","other","Turkki","Etelä-Eurooppa",0,0,1,0,1,0,0,0,0,0,0,"Aasia"
-"8",76,"EU","CY","CYP",196,"Cyprus","Europe","other","Kypros","Etelä-Eurooppa",0,1,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"9",147,"EU","MT","MLT",470,"Malta","Europe","other","Malta","Etelä-Eurooppa",0,1,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"10",152,"EU","MC","MCO",492,"Monaco","Europe","other","Monaco","Etelä-Eurooppa",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"11",41,"EU","BE","BEL",56,"Belgium","Europe","other","Belgia","Läntinen Keski-Eurooppa",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"12",92,"EU","FR","FRA",250,"France","Europe","other","Ranska","Läntinen Keski-Eurooppa",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"13",100,"EU","DE","DEU",276,"Germany","Europe","other","Saksa","Läntinen Keski-Eurooppa",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"14",140,"EU","LU","LUX",442,"Luxembourg","Europe","other","Luxemburg","Läntinen Keski-Eurooppa",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"15",161,"EU","NL","NLD",528,"Netherlands","Europe","other","Alankomaat","Läntinen Keski-Eurooppa",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"16",223,"EU","CH","CHE",756,"Switzerland","Europe","other","Sveitsi","Läntinen Keski-Eurooppa",0,0,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"17",139,"EU","LI","LIE",438,"Liechtenstein","Europe","other","Liechtenstein","Läntinen Keski-Eurooppa",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"18",28,"AF","DZ","DZA",12,"Algeria","Africa","other","Algeria","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"19",31,"AF","AO","AGO",24,"Angola","Africa","other","Angola","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"20",77,"AF","BJ","BEN",204,"Benin","Africa","other","Benin","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"21",35,"EU","AT","AUT",40,"Austria","Europe","other","Itävalta","muu",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"22",189,"EU","PT","PRT",620,"Portugal","Europe","other","Portugali","muu",1,1,1,1,0,0,0,0,0,0,0,"Eurooppa"
-"23",127,"AS","JP","JPN",392,"Japan","Asia","other","Japani","muu",0,0,1,0,1,0,0,0,0,0,0,"Aasia"
-"24",131,"AS","KR","KOR",410,"Korea","Asia","other","Korea","muu",0,0,1,0,1,0,0,0,0,0,0,"Aasia"
-"25",57,NA,"CA","CAN",124,"Canada","North America","other","Canada","muu",0,0,1,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"26",151,NA,"MX","MEX",484,"Mexico","North America","other","Mexico","muu",0,0,1,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"27",244,NA,"US","USA",840,"United States","North America","other","United States of America","muu",0,0,1,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"28",34,"OC","AU","AUS",36,"Australia","Oceania","other","Australia","muu",0,0,1,0,0,0,0,0,1,0,0,"Oseania"
-"29",169,"OC","NZ","NZL",554,"New Zealand","Oceania","other","New Zealand","muu",0,0,1,0,0,0,0,0,1,0,0,"Oseania"
-"30",63,"SA","CL","CHL",152,"Chile","South America","other","Chile","muu",0,0,1,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"31",45,"AF","BW","BWA",72,"Botswana","Africa","other","Botswana","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"32",246,"AF","BF","BFA",854,"Burkina Faso","Africa","other","Burkina Faso","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"33",54,"AF","BI","BDI",108,"Burundi","Africa","other","Burundi","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"34",56,"AF","CM","CMR",120,"Cameroon","Africa","other","Cameroon","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"35",58,"AF","CV","CPV",132,"Cape Verde","Africa","other","Cape Verde","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"36",60,"AF","CF","CAF",140,"Central African Republic","Africa","other","Central African Republic","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"37",62,"AF","TD","TCD",148,"Chad","Africa","other","Chad","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"38",69,"AF","KM","COM",174,"Comoros","Africa","other","Comoros","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"39",71,"AF","CG","COG",178,"Congo","Africa","other","Congo","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"40",72,"AF","CD","COD",180,"Congo","Africa","other","Congo","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"41",125,"AF","CI","CIV",384,"Cote d'Ivoire","Africa","other","Cote d'Ivoire","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"42",96,"AF","DJ","DJI",262,"Djibouti","Africa","other","Djibouti","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"43",238,"AF","EG","EGY",818,"Egypt","Africa","other","Egypti","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"44",83,"AF","GQ","GNQ",226,"Equatorial Guinea","Africa","other","Equatorial Guinea","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"45",85,"AF","ER","ERI",232,"Eritrea","Africa","other","Eritrea","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"46",84,"AF","ET","ETH",231,"Ethiopia","Africa","other","Ethiopia","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"47",97,"AF","GA","GAB",266,"Gabon","Africa","other","Gabon","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"48",98,"AF","GM","GMB",270,"Gambia","Africa","other","Gambia","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"49",101,"AF","GH","GHA",288,"Ghana","Africa","other","Ghana","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"50",110,"AF","GN","GIN",324,"Guinea","Africa","other","Guinea","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"51",190,"AF","GW","GNB",624,"Guinea-Bissau","Africa","other","Guinea-Bissau","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"52",129,"AF","KE","KEN",404,"Kenya","Africa","other","Kenya","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"53",136,"AF","LS","LSO",426,"Lesotho","Africa","other","Lesotho","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"54",137,"AF","LR","LBR",430,"Liberia","Africa","other","Liberia","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"55",138,"AF","LY","LBY",434,"Libyan Arab Jamahiriya","Africa","other","Libyan Arab Jamahiriya","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"56",142,"AF","MG","MDG",450,"Madagascar","Africa","other","Madagascar","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"57",143,"AF","MW","MWI",454,"Malawi","Africa","other","Malawi","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"58",146,"AF","ML","MLI",466,"Mali","Africa","other","Mali","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"59",149,"AF","MR","MRT",478,"Mauritania","Africa","other","Mauritania","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"60",150,"AF","MU","MUS",480,"Mauritius","Africa","other","Mauritius","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"61",70,"AF","YT","MYT",175,"Mayotte","Africa","other","Mayotte","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"62",155,"AF","MA","MAR",504,"Morocco","Africa","other","Morocco","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"63",156,"AF","MZ","MOZ",508,"Mozambique","Africa","other","Mozambique","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"64",158,"AF",NA,"NAM",516,"Namibia","Africa","other","Namibia","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"65",171,"AF","NE","NER",562,"Niger","Africa","other","Niger","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"66",172,"AF","NG","NGA",566,"Nigeria","Africa","other","Nigeria","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"67",194,"AF","RE","REU",638,"Reunion","Africa","other","Reunion","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"68",195,"AF","RW","RWA",646,"Rwanda","Africa","other","Rwanda","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"69",197,"AF","SH","SHN",654,"Saint Helena","Africa","other","Saint Helena","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"70",205,"AF","ST","STP",678,"Sao Tome and Principe","Africa","other","Sao Tome and Principe","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"71",207,"AF","SN","SEN",686,"Senegal","Africa","other","Senegal","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"72",208,"AF","SC","SYC",690,"Seychelles","Africa","other","Seychelles","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"73",209,"AF","SL","SLE",694,"Sierra Leone","Africa","other","Sierra Leone","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"74",212,"AF","SO","SOM",706,"Somalia","Africa","other","Somalia","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"75",213,"AF","ZA","ZAF",710,"South Africa","Africa","other","South Africa","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"76",216,"AF","SS","SSD",728,"South Sudan","Africa","other","South Sudan","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"77",218,"AF","SD","SDN",736,"Sudan","Africa","other","Sudan","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"78",221,"AF","SZ","SWZ",748,"Swaziland","Africa","other","Swaziland","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"79",243,"AF","TZ","TZA",834,"Tanzania","Africa","other","Tanzania","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"80",226,"AF","TG","TGO",768,"Togo","Africa","other","Togo","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"81",231,"AF","TN","TUN",788,"Tunisia","Africa","other","Tunisia","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"82",236,"AF","UG","UGA",800,"Uganda","Africa","other","Uganda","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"83",217,"AF","EH","ESH",732,"Western Sahara","Africa","other","Western Sahara","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"84",252,"AF","ZM","ZMB",894,"Zambia","Africa","other","Zambia","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"85",214,"AF","ZW","ZWE",716,"Zimbabwe","Africa","other","Zimbabwe","muu",0,0,0,0,0,0,0,1,0,0,0,"Afrikka"
-"86",27,"AN","AQ","ATA",10,"Antarctica (the territory South of 60 deg S)","Antarctica","other","Antarctica (the territory South of 60 deg S)","muu",0,0,0,0,0,0,0,0,0,0,0,"Etelämanner"
-"87",46,"AN","BV","BVT",74,"Bouvet Island (Bouvetoya)","Antarctica","other","Bouvet Island (Bouvetoya)","muu",0,0,0,0,0,0,0,0,0,0,0,"Etelämanner"
-"88",95,"AN","TF","ATF",260,"French Southern Territories","Antarctica","other","French Southern Territories","muu",0,0,0,0,0,0,0,0,0,0,0,"Etelämanner"
-"89",113,"AN","HM","HMD",334,"Heard Island and McDonald Islands","Antarctica","other","Heard Island and McDonald Islands","muu",0,0,0,0,0,0,0,0,0,0,0,"Etelämanner"
-"90",88,"AN","GS","SGS",239,"South Georgia and the South Sandwich Islands","Antarctica","other","South Georgia and the South Sandwich Islands","muu",0,0,0,0,0,0,0,0,0,0,0,"Etelämanner"
-"91",37,"AS","BH","BHR",48,"Bahrain","Asia","other","Bahrain","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"92",38,"AS","BD","BGD",50,"Bangladesh","Asia","other","Bangladesh","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"93",43,"AS","BT","BTN",64,"Bhutan","Asia","other","Bhutan","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"94",49,"AS","IO","IOT",86,"British Indian Ocean Territory (Chagos Archipelago)","Asia","other","British Indian Ocean Territory (Chagos Archipelago)","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"95",52,"AS","BN","BRN",96,"Brunei Darussalam","Asia","other","Brunei Darussalam","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"96",55,"AS","KH","KHM",116,"Cambodia","Asia","other","Cambodia","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"97",64,"AS","CN","CHN",156,"China","Asia","other","China","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"98",66,"AS","CX","CXR",162,"Christmas Island","Asia","other","Christmas Island","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"99",67,"AS","CC","CCK",166,"Cocos (Keeling) Islands","Asia","other","Cocos (Keeling) Islands","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"100",116,"AS","HK","HKG",344,"Hong Kong","Asia","other","Hong Kong","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"101",118,"AS","IN","IND",356,"India","Asia","other","India","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"102",119,"AS","ID","IDN",360,"Indonesia","Asia","other","Indonesia","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"103",120,"AS","IR","IRN",364,"Iran","Asia","other","Iran","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"104",121,"AS","IQ","IRQ",368,"Iraq","Asia","other","Iraq","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"105",128,"AS","JO","JOR",400,"Jordan","Asia","other","Jordan","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"106",132,"AS","KW","KWT",414,"Kuwait","Asia","other","Kuwait","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"107",134,"AS","LA","LAO",418,"Lao People's Democratic Republic","Asia","other","Lao People's Democratic Republic","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"108",135,"AS","LB","LBN",422,"Lebanon","Asia","other","Lebanon","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"109",141,"AS","MO","MAC",446,"Macao","Asia","other","Macao","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"110",144,"AS","MY","MYS",458,"Malaysia","Asia","other","Malaysia","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"111",145,"AS","MV","MDV",462,"Maldives","Asia","other","Maldives","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"112",153,"AS","MN","MNG",496,"Mongolia","Asia","other","Mongolia","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"113",53,"AS","MM","MMR",104,"Myanmar","Asia","other","Myanmar","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"114",160,"AS","NP","NPL",524,"Nepal","Asia","other","Nepal","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"115",157,"AS","OM","OMN",512,"Oman","Asia","other","Oman","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"116",182,"AS","PK","PAK",586,"Pakistan","Asia","other","Pakistan","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"117",99,"AS","PS","PSE",275,"Palestinian Territory","Asia","other","Palestinian Territory","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"118",187,"AS","PH","PHL",608,"Philippines","Asia","other","Philippines","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"119",193,"AS","QA","QAT",634,"Qatar","Asia","other","Qatar","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"120",206,"AS","SA","SAU",682,"Saudi Arabia","Asia","other","Saudi Arabia","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"121",210,"AS","SG","SGP",702,"Singapore","Asia","other","Singapore","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"122",61,"AS","LK","LKA",144,"Sri Lanka","Asia","other","Sri Lanka","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"123",224,"AS","SY","SYR",760,"Syrian Arab Republic","Asia","other","Syrian Arab Republic","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"124",65,"AS","TW","TWN",158,"Taiwan","Asia","other","Taiwan","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"125",225,"AS","TH","THA",764,"Thailand","Asia","other","Thailand","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"126",191,"AS","TL","TLS",626,"Timor-Leste","Asia","other","Timor-Leste","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"127",230,"AS","AE","ARE",784,"United Arab Emirates","Asia","other","United Arab Emirates","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"128",211,"AS","VN","VNM",704,"Vietnam","Asia","other","Vietnam","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"129",251,"AS","YE","YEM",887,"Yemen","Asia","other","Yemen","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"130",30,"EU","AD","AND",20,"Andorra","Europe","other","Andorra","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"131",39,"EU","AM","ARM",51,"Armenia","Europe","other","Armenia","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"132",86,"EU","FO","FRO",234,"Faroe Islands","Europe","other","Faroe Islands","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"133",102,"EU","GI","GIB",292,"Gibraltar","Europe","other","Gibraltar","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"134",240,"EU","GG","GGY",831,"Guernsey","Europe","other","Guernsey","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"135",114,"EU","VA","VAT",336,"Holy See (Vatican City State)","Europe","other","Holy See (Vatican City State)","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"136",242,"EU","IM","IMN",833,"Isle of Man","Europe","other","Isle of Man","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"137",241,"EU","JE","JEY",832,"Jersey","Europe","other","Jersey","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"138",204,"EU","SM","SMR",674,"San Marino","Europe","other","San Marino","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"139",220,"EU","SJ","SJM",744,"Svalbard & Jan Mayen Islands","Europe","other","Svalbard & Jan Mayen Islands","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"140",91,"EU","AX","ALA",248,"Åland Islands","Europe","other","Ahvenanmaa","muu",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"141",199,NA,"AI","AIA",660,"Anguilla","North America","other","Anguilla","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"142",32,NA,"AG","ATG",28,"Antigua and Barbuda","North America","other","Antigua and Barbuda","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"143",164,NA,"AW","ABW",533,"Aruba","North America","other","Aruba","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"144",36,NA,"BS","BHS",44,"Bahamas","North America","other","Bahama","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"145",40,NA,"BB","BRB",52,"Barbados","North America","other","Barbados","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"146",48,NA,"BZ","BLZ",84,"Belize","North America","other","Belize","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"147",42,NA,"BM","BMU",60,"Bermuda","North America","other","Bermuda","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"148",166,NA,"BQ","BES",535,"Bonaire","North America","other","Bonaire","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"149",51,NA,"VG","VGB",92,"British Virgin Islands","North America","other","British Virgin Islands","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"150",59,NA,"KY","CYM",136,"Cayman Islands","North America","other","Cayman Islands","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"151",74,NA,"CR","CRI",188,"Costa Rica","North America","other","Costa Rica","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"152",75,NA,"CU","CUB",192,"Cuba","North America","other","Cuba","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"153",163,NA,"CW","CUW",531,"Curaçao","North America","other","Curaçao","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"154",79,NA,"DM","DMA",212,"Dominica","North America","other","Dominica","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"155",80,NA,"DO","DOM",214,"Dominican Republic","North America","other","Dominican Republic","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"156",82,NA,"SV","SLV",222,"El Salvador","North America","other","El Salvador","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"157",105,NA,"GL","GRL",304,"Greenland","North America","other","Greenland","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"158",106,NA,"GD","GRD",308,"Grenada","North America","other","Grenada","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"159",107,NA,"GP","GLP",312,"Guadeloupe","North America","other","Guadeloupe","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"160",109,NA,"GT","GTM",320,"Guatemala","North America","other","Guatemala","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"161",112,NA,"HT","HTI",332,"Haiti","North America","other","Haiti","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"162",115,NA,"HN","HND",340,"Honduras","North America","other","Honduras","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"163",126,NA,"JM","JAM",388,"Jamaica","North America","other","Jamaica","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"164",148,NA,"MQ","MTQ",474,"Martinique","North America","other","Martinique","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"165",154,NA,"MS","MSR",500,"Montserrat","North America","other","Montserrat","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"166",162,NA,"AN","ANT",530,"Netherlands Antilles","North America","other","Netherlands Antilles","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"167",170,NA,"NI","NIC",558,"Nicaragua","North America","other","Nicaragua","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"168",183,NA,"PA","PAN",591,"Panama","North America","other","Panama","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"169",192,NA,"PR","PRI",630,"Puerto Rico","North America","other","Puerto Rico","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"170",196,NA,"BL","BLM",652,"Saint Barthelemy","North America","other","Saint Barthelemy","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"171",198,NA,"KN","KNA",659,"Saint Kitts and Nevis","North America","other","Saint Kitts and Nevis","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"172",200,NA,"LC","LCA",662,"Saint Lucia","North America","other","Saint Lucia","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"173",201,NA,"MF","MAF",663,"Saint Martin","North America","other","Saint Martin","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"174",202,NA,"PM","SPM",666,"Saint Pierre and Miquelon","North America","other","Saint Pierre and Miquelon","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"175",203,NA,"VC","VCT",670,"Saint Vincent and the Grenadines","North America","other","Saint Vincent and the Grenadines","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"176",165,NA,"SX","SXM",534,"Sint Maarten (Netherlands)","North America","other","Sint Maarten (Netherlands)","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"177",229,NA,"TT","TTO",780,"Trinidad and Tobago","North America","other","Trinidad and Tobago","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"178",234,NA,"TC","TCA",796,"Turks and Caicos Islands","North America","other","Turks and Caicos Islands","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"179",178,NA,"UM","UMI",581,"United States Minor Outlying Islands","North America","other","United States Minor Outlying Islands","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"180",245,NA,"VI","VIR",850,"United States Virgin Islands","North America","other","United States Virgin Islands","muu",0,0,0,0,0,1,0,0,0,0,0,"Pohjois-Amerikka"
-"181",29,"OC","AS","ASM",16,"American Samoa","Oceania","other","American Samoa","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"182",73,"OC","CK","COK",184,"Cook Islands","Oceania","other","Cook Islands","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"183",89,"OC","FJ","FJI",242,"Fiji","Oceania","other","Fiji","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"184",94,"OC","PF","PYF",258,"French Polynesia","Oceania","other","French Polynesia","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"185",108,"OC","GU","GUM",316,"Guam","Oceania","other","Guam","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"186",103,"OC","KI","KIR",296,"Kiribati","Oceania","other","Kiribati","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"187",180,"OC","MH","MHL",584,"Marshall Islands","Oceania","other","Marshall Islands","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"188",179,"OC","FM","FSM",583,"Micronesia","Oceania","other","Micronesia","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"189",159,"OC","NR","NRU",520,"Nauru","Oceania","other","Nauru","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"190",167,"OC","NC","NCL",540,"New Caledonia","Oceania","other","New Caledonia","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"191",173,"OC","NU","NIU",570,"Niue","Oceania","other","Niue","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"192",174,"OC","NF","NFK",574,"Norfolk Island","Oceania","other","Norfolk Island","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"193",176,"OC","MP","MNP",580,"Northern Mariana Islands","Oceania","other","Northern Mariana Islands","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"194",181,"OC","PW","PLW",585,"Palau","Oceania","other","Palau","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"195",184,"OC","PG","PNG",598,"Papua New Guinea","Oceania","other","Papua New Guinea","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"196",188,"OC","PN","PCN",612,"Pitcairn Islands","Oceania","other","Pitcairn Islands","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"197",250,"OC","WS","WSM",882,"Samoa","Oceania","other","Samoa","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"198",50,"OC","SB","SLB",90,"Solomon Islands","Oceania","other","Solomon Islands","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"199",227,"OC","TK","TKL",772,"Tokelau","Oceania","other","Tokelau","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"200",228,"OC","TO","TON",776,"Tonga","Oceania","other","Tonga","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"201",235,"OC","TV","TUV",798,"Tuvalu","Oceania","other","Tuvalu","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"202",177,"OC","UM","UMI",581,"United States Minor Outlying Islands","Oceania","other","United States Minor Outlying Islands","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"203",168,"OC","VU","VUT",548,"Vanuatu","Oceania","other","Vanuatu","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"204",249,"OC","WF","WLF",876,"Wallis and Futuna","Oceania","other","Wallis and Futuna","muu",0,0,0,0,0,0,0,0,1,0,0,"Oseania"
-"205",33,"SA","AR","ARG",32,"Argentina","South America","other","Argentina","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"206",44,"SA","BO","BOL",68,"Bolivia","South America","other","Bolivia","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"207",47,"SA","BR","BRA",76,"Brazil","South America","other","Brazil","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"208",68,"SA","CO","COL",170,"Colombia","South America","other","Colombia","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"209",81,"SA","EC","ECU",218,"Ecuador","South America","other","Ecuador","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"210",87,"SA","FK","FLK",238,"Falkland Islands (Malvinas)","South America","other","Falkland Islands (Malvinas)","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"211",93,"SA","GF","GUF",254,"French Guiana","South America","other","French Guiana","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"212",111,"SA","GY","GUY",328,"Guyana","South America","other","Guyana","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"213",185,"SA","PY","PRY",600,"Paraguay","South America","other","Paraguay","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"214",186,"SA","PE","PER",604,"Peru","South America","other","Peru","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"215",219,"SA","SR","SUR",740,"Suriname","South America","other","Suriname","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"216",247,"SA","UY","URY",858,"Uruguay","South America","other","Uruguay","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"217",248,"SA","VE","VEN",862,"Venezuela","South America","other","Venezuela","muu",0,0,0,0,0,0,1,0,0,0,0,"Etelä-Amerikka"
-"218",78,"EU","DK","DNK",208,"Denmark","Europe","other","Tanska","Pohjoismaat",1,1,1,1,0,0,0,0,0,0,1,"Eurooppa"
-"219",90,"EU","FI","FIN",246,"Finland","Europe","other","Suomi","Pohjoismaat",1,1,1,1,0,0,0,0,0,0,1,"Eurooppa"
-"220",222,"EU","SE","SWE",752,"Sweden","Europe","other","Ruotsi","Pohjoismaat",1,1,1,1,0,0,0,0,0,0,1,"Eurooppa"
-"221",117,"EU","IS","ISL",352,"Iceland","Europe","other","Islanti","Pohjoismaat",0,0,1,1,0,0,0,0,0,0,1,"Eurooppa"
-"222",175,"EU","NO","NOR",578,"Norway","Europe","other","Norja","Pohjoismaat",0,0,1,1,0,0,0,0,0,0,1,"Eurooppa"
-"223",12,"EU","EE","EST",233,"Estonia","Europe","Baltics","Viro","Post-sosialistinen",0,1,1,1,0,0,0,0,0,1,0,"Eurooppa"
-"224",14,"EU","LV","LVA",428,"Latvia","Europe","Baltics","Latvia","Post-sosialistinen",0,1,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"225",15,"EU","LT","LTU",440,"Lithuania","Europe","Baltics","Liettua","Post-sosialistinen",0,1,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"226",1,"EU","AZ","AZE",31,"Azerbaijan","Europe","Caucasus","Azerbaidžan","Post-sosialistinen",0,0,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"227",2,"EU","GE","GEO",268,"Georgia","Europe","Caucasus","Georgia","Post-sosialistinen",0,0,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"228",26,"AS","AF","AFG",4,"Afghanistan","Asia","Central Asia","Afganistan","muu",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"229",3,"AS","KZ","KAZ",398,"Kazakhstan","Asia","Central Asia","Kazakstan","Post-sosialistinen",0,0,0,0,1,0,0,0,0,1,0,"Aasia"
-"230",4,"AS","TJ","TJK",762,"Tajikistan","Asia","Central Asia","Tadžikistan","Post-sosialistinen",0,0,0,0,1,0,0,0,0,1,0,"Aasia"
-"231",5,"AS","TM","TKM",795,"Turkmenistan","Asia","Central Asia","Turkmenistan","Post-sosialistinen",0,0,0,0,1,0,0,0,0,1,0,"Aasia"
-"232",6,"AS","UZ","UZB",860,"Uzbekistan","Asia","Central Asia","Uzbekistan","Post-sosialistinen",0,0,0,0,1,0,0,0,0,1,0,"Aasia"
-"233",11,"EU","CZ","CZE",203,"Czech Republic","Europe","Eastern Europe","Tšekki","Post-sosialistinen",0,1,1,1,0,0,0,0,0,1,0,"Eurooppa"
-"234",13,"EU","HU","HUN",348,"Hungary","Europe","Eastern Europe","Unkari","Post-sosialistinen",0,1,1,1,0,0,0,0,0,1,0,"Eurooppa"
-"235",17,"EU","PL","POL",616,"Poland","Europe","Eastern Europe","Puola","Post-sosialistinen",0,1,1,1,0,0,0,0,0,1,0,"Eurooppa"
-"236",20,"EU","SK","SVK",703,"Slovakia","Europe","Eastern Europe","Slovakia","Post-sosialistinen",0,1,1,1,0,0,0,0,0,1,0,"Eurooppa"
-"237",9,"EU","BG","BGR",100,"Bulgaria","Europe","Eastern Europe","Bulgaria","Post-sosialistinen",0,1,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"238",18,"EU","RO","ROU",642,"Romania","Europe","Eastern Europe","Romania","Post-sosialistinen",0,1,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"239",7,"EU","AL","ALB",8,"Albania","Europe","Eastern Europe","Albania","Post-sosialistinen",0,0,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"240",21,"EU","SI","SVN",705,"Slovenia","Europe","Ex-Jugoslavia","Slovenia","Post-sosialistinen",0,1,1,1,0,0,0,0,0,1,0,"Eurooppa"
-"241",10,"EU","HR","HRV",191,"Croatia","Europe","Ex-Jugoslavia","Kroatia","Post-sosialistinen",0,1,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"242",8,"EU","BA","BIH",70,"Bosnia and Herzegovina","Europe","Ex-Jugoslavia","Bosnia ja Hertsegovina","Post-sosialistinen",0,0,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"243",16,"EU","ME","MNE",499,"Montenegro","Europe","Ex-Jugoslavia","Montenegro","Post-sosialistinen",0,0,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"244",19,"EU","RS","SRB",688,"Serbia","Europe","Ex-Jugoslavia","Serbia","Post-sosialistinen",0,0,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"245",253,"EU","XK","",NA,"Kosovo","Europe","Ex-Jugoslavia","Kosovo","Post-sosialistinen",0,0,0,1,0,0,0,0,0,1,0,"Eurooppa"
-"246",133,"AS","KG","KGZ",417,"Kyrgyz Republic","Asia","other","Kirgisia","Post-sosialistinen",0,0,0,0,1,0,0,0,0,0,0,"Aasia"
-"247",237,"EU","MK","MKD",807,"Macedonia","Europe","other","Makedonia","Post-sosialistinen",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"248",22,"EU","BY","BLR",112,"Belarus","Europe","Post-Soviet","Valko-Venäjä","Post-sosialistinen",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"249",23,"EU","MD","MDA",498,"Moldova","Europe","Post-Soviet","Moldova","Post-sosialistinen",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"250",24,"EU","UA","UKR",804,"Ukraine","Europe","Post-Soviet","Ukraina","Post-sosialistinen",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
-"251",25,"EU","RU","RUS",643,"Russian Federation","Europe","Russia","Venäjä","Post-sosialistinen",0,0,0,1,0,0,0,0,0,0,0,"Eurooppa"
+,X,contCode,cCode2,cCode3,cNr,cntryName,contName,group1,maa,ryhma1,EU15,EU27,OECD,europe,asia,north_america,south_america,africa,oceania,postsos,nordic,mannerNimi
+1,239,EU,GB,GBR,826,United Kingdom,Europe,other,Iso-Britannia,Anglosaksiset maat,1,1,0,1,0,0,0,0,0,0,0,Eurooppa
+2,122,EU,IE,IRL,372,Ireland,Europe,other,Irlanti,Anglosaksiset maat,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+3,104,EU,GR,GRC,300,Greece,Europe,other,Kreikka,Etelä-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+4,124,EU,IT,ITA,380,Italy,Europe,other,Italia,Etelä-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+5,215,EU,ES,ESP,724,Spain,Europe,other,Espanja,Etelä-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+6,123,AS,IL,ISR,376,Israel,Asia,other,Israel,Etelä-Eurooppa,0,0,1,0,1,0,0,0,0,0,0,Aasia
+7,233,AS,TR,TUR,792,Turkey,Asia,other,Turkki,Etelä-Eurooppa,0,0,1,0,1,0,0,0,0,0,0,Aasia
+8,76,EU,CY,CYP,196,Cyprus,Europe,other,Kypros,Etelä-Eurooppa,0,1,0,1,0,0,0,0,0,0,0,Eurooppa
+9,147,EU,MT,MLT,470,Malta,Europe,other,Malta,Etelä-Eurooppa,0,1,0,1,0,0,0,0,0,0,0,Eurooppa
+10,152,EU,MC,MCO,492,Monaco,Europe,other,Monaco,Etelä-Eurooppa,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+11,41,EU,BE,BEL,56,Belgium,Europe,other,Belgia,Läntinen Keski-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+12,92,EU,FR,FRA,250,France,Europe,other,Ranska,Läntinen Keski-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+13,100,EU,DE,DEU,276,Germany,Europe,other,Saksa,Läntinen Keski-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+14,140,EU,LU,LUX,442,Luxembourg,Europe,other,Luxemburg,Läntinen Keski-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+15,161,EU,NL,NLD,528,Netherlands,Europe,other,Alankomaat,Läntinen Keski-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+16,223,EU,CH,CHE,756,Switzerland,Europe,other,Sveitsi,Läntinen Keski-Eurooppa,0,0,1,1,0,0,0,0,0,0,0,Eurooppa
+17,139,EU,LI,LIE,438,Liechtenstein,Europe,other,Liechtenstein,Läntinen Keski-Eurooppa,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+18,28,AF,DZ,DZA,12,Algeria,Africa,other,Algeria,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+19,31,AF,AO,AGO,24,Angola,Africa,other,Angola,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+20,77,AF,BJ,BEN,204,Benin,Africa,other,Benin,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+21,35,EU,AT,AUT,40,Austria,Europe,other,Itävalta,muu,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+22,189,EU,PT,PRT,620,Portugal,Europe,other,Portugali,muu,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
+23,127,AS,JP,JPN,392,Japan,Asia,other,Japani,muu,0,0,1,0,1,0,0,0,0,0,0,Aasia
+24,131,AS,KR,KOR,410,Korea,Asia,other,Korea,muu,0,0,1,0,1,0,0,0,0,0,0,Aasia
+25,57,NA,CA,CAN,124,Canada,North America,other,Kanada,muu,0,0,1,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+26,151,NA,MX,MEX,484,Mexico,North America,other,Meksiko,muu,0,0,1,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+27,244,NA,US,USA,840,United States,North America,other,Yhdysvallat,muu,0,0,1,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+28,34,OC,AU,AUS,36,Australia,Oceania,other,Australia,muu,0,0,1,0,0,0,0,0,1,0,0,Oseania
+29,169,OC,NZ,NZL,554,New Zealand,Oceania,other,Uusi-Seelanti,muu,0,0,1,0,0,0,0,0,1,0,0,Oseania
+30,63,SA,CL,CHL,152,Chile,South America,other,Chile,muu,0,0,1,0,0,0,1,0,0,0,0,Etelä-Amerikka
+31,45,AF,BW,BWA,72,Botswana,Africa,other,Botswana,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+32,246,AF,BF,BFA,854,Burkina Faso,Africa,other,Burkina Faso,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+33,54,AF,BI,BDI,108,Burundi,Africa,other,Burundi,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+34,56,AF,CM,CMR,120,Cameroon,Africa,other,Cameroon,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+35,58,AF,CV,CPV,132,Cape Verde,Africa,other,Cape Verde,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+36,60,AF,CF,CAF,140,Central African Republic,Africa,other,Central African Republic,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+37,62,AF,TD,TCD,148,Chad,Africa,other,Chad,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+38,69,AF,KM,COM,174,Comoros,Africa,other,Comoros,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+39,71,AF,CG,COG,178,Congo,Africa,other,Congo,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+40,72,AF,CD,COD,180,Congo,Africa,other,Congo,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+41,125,AF,CI,CIV,384,Cote d'Ivoire,Africa,other,Cote d'Ivoire,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+42,96,AF,DJ,DJI,262,Djibouti,Africa,other,Djibouti,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+43,238,AF,EG,EGY,818,Egypt,Africa,other,Egypti,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+44,83,AF,GQ,GNQ,226,Equatorial Guinea,Africa,other,Equatorial Guinea,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+45,85,AF,ER,ERI,232,Eritrea,Africa,other,Eritrea,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+46,84,AF,ET,ETH,231,Ethiopia,Africa,other,Etiopia,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+47,97,AF,GA,GAB,266,Gabon,Africa,other,Gabon,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+48,98,AF,GM,GMB,270,Gambia,Africa,other,Gambia,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+49,101,AF,GH,GHA,288,Ghana,Africa,other,Ghana,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+50,110,AF,GN,GIN,324,Guinea,Africa,other,Guinea,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+51,190,AF,GW,GNB,624,Guinea-Bissau,Africa,other,Guinea-Bissau,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+52,129,AF,KE,KEN,404,Kenya,Africa,other,Kenya,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+53,136,AF,LS,LSO,426,Lesotho,Africa,other,Lesotho,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+54,137,AF,LR,LBR,430,Liberia,Africa,other,Liberia,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+55,138,AF,LY,LBY,434,Libyan Arab Jamahiriya,Africa,other,Libyan Arab Jamahiriya,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+56,142,AF,MG,MDG,450,Madagascar,Africa,other,Madagascar,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+57,143,AF,MW,MWI,454,Malawi,Africa,other,Malawi,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+58,146,AF,ML,MLI,466,Mali,Africa,other,Mali,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+59,149,AF,MR,MRT,478,Mauritania,Africa,other,Mauritania,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+60,150,AF,MU,MUS,480,Mauritius,Africa,other,Mauritius,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+61,70,AF,YT,MYT,175,Mayotte,Africa,other,Mayotte,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+62,155,AF,MA,MAR,504,Morocco,Africa,other,Morocco,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+63,156,AF,MZ,MOZ,508,Mozambique,Africa,other,Mozambique,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+64,158,AF,NA,NAM,516,Namibia,Africa,other,Namibia,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+65,171,AF,NE,NER,562,Niger,Africa,other,Niger,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+66,172,AF,NG,NGA,566,Nigeria,Africa,other,Nigeria,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+67,194,AF,RE,REU,638,Reunion,Africa,other,Reunion,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+68,195,AF,RW,RWA,646,Rwanda,Africa,other,Rwanda,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+69,197,AF,SH,SHN,654,Saint Helena,Africa,other,Saint Helena,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+70,205,AF,ST,STP,678,Sao Tome and Principe,Africa,other,Sao Tome and Principe,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+71,207,AF,SN,SEN,686,Senegal,Africa,other,Senegal,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+72,208,AF,SC,SYC,690,Seychelles,Africa,other,Seychelles,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+73,209,AF,SL,SLE,694,Sierra Leone,Africa,other,Sierra Leone,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+74,212,AF,SO,SOM,706,Somalia,Africa,other,Somalia,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+75,213,AF,ZA,ZAF,710,South Africa,Africa,other,South Africa,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+76,216,AF,SS,SSD,728,South Sudan,Africa,other,South Sudan,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+77,218,AF,SD,SDN,736,Sudan,Africa,other,Sudan,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+78,221,AF,SZ,SWZ,748,Swaziland,Africa,other,Swaziland,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+79,243,AF,TZ,TZA,834,Tanzania,Africa,other,Tanzania,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+80,226,AF,TG,TGO,768,Togo,Africa,other,Togo,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+81,231,AF,TN,TUN,788,Tunisia,Africa,other,Tunisia,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+82,236,AF,UG,UGA,800,Uganda,Africa,other,Uganda,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+83,217,AF,EH,ESH,732,Western Sahara,Africa,other,Western Sahara,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+84,252,AF,ZM,ZMB,894,Zambia,Africa,other,Zambia,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+85,214,AF,ZW,ZWE,716,Zimbabwe,Africa,other,Zimbabwe,muu,0,0,0,0,0,0,0,1,0,0,0,Afrikka
+86,27,AN,AQ,ATA,10,Antarctica (the territory South of 60 deg S),Antarctica,other,Antarctica (the territory South of 60 deg S),muu,0,0,0,0,0,0,0,0,0,0,0,Etelämanner
+87,46,AN,BV,BVT,74,Bouvet Island (Bouvetoya),Antarctica,other,Bouvet Island (Bouvetoya),muu,0,0,0,0,0,0,0,0,0,0,0,Etelämanner
+88,95,AN,TF,ATF,260,French Southern Territories,Antarctica,other,French Southern Territories,muu,0,0,0,0,0,0,0,0,0,0,0,Etelämanner
+89,113,AN,HM,HMD,334,Heard Island and McDonald Islands,Antarctica,other,Heard Island and McDonald Islands,muu,0,0,0,0,0,0,0,0,0,0,0,Etelämanner
+90,88,AN,GS,SGS,239,South Georgia and the South Sandwich Islands,Antarctica,other,South Georgia and the South Sandwich Islands,muu,0,0,0,0,0,0,0,0,0,0,0,Etelämanner
+91,37,AS,BH,BHR,48,Bahrain,Asia,other,Bahrain,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+92,38,AS,BD,BGD,50,Bangladesh,Asia,other,Bangladesh,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+93,43,AS,BT,BTN,64,Bhutan,Asia,other,Bhutan,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+94,49,AS,IO,IOT,86,British Indian Ocean Territory (Chagos Archipelago),Asia,other,British Indian Ocean Territory (Chagos Archipelago),muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+95,52,AS,BN,BRN,96,Brunei Darussalam,Asia,other,Brunei Darussalam,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+96,55,AS,KH,KHM,116,Cambodia,Asia,other,Cambodia,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+97,64,AS,CN,CHN,156,China,Asia,other,China,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+98,66,AS,CX,CXR,162,Christmas Island,Asia,other,Christmas Island,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+99,67,AS,CC,CCK,166,Cocos (Keeling) Islands,Asia,other,Cocos (Keeling) Islands,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+100,116,AS,HK,HKG,344,Hong Kong,Asia,other,Hong Kong,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+101,118,AS,IN,IND,356,India,Asia,other,India,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+102,119,AS,ID,IDN,360,Indonesia,Asia,other,Indonesia,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+103,120,AS,IR,IRN,364,Iran,Asia,other,Iran,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+104,121,AS,IQ,IRQ,368,Iraq,Asia,other,Iraq,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+105,128,AS,JO,JOR,400,Jordan,Asia,other,Jordan,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+106,132,AS,KW,KWT,414,Kuwait,Asia,other,Kuwait,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+107,134,AS,LA,LAO,418,Lao People's Democratic Republic,Asia,other,Lao People's Democratic Republic,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+108,135,AS,LB,LBN,422,Lebanon,Asia,other,Lebanon,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+109,141,AS,MO,MAC,446,Macao,Asia,other,Macao,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+110,144,AS,MY,MYS,458,Malaysia,Asia,other,Malaysia,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+111,145,AS,MV,MDV,462,Maldives,Asia,other,Maldives,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+112,153,AS,MN,MNG,496,Mongolia,Asia,other,Mongolia,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+113,53,AS,MM,MMR,104,Myanmar,Asia,other,Myanmar,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+114,160,AS,NP,NPL,524,Nepal,Asia,other,Nepal,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+115,157,AS,OM,OMN,512,Oman,Asia,other,Oman,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+116,182,AS,PK,PAK,586,Pakistan,Asia,other,Pakistan,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+117,99,AS,PS,PSE,275,Palestinian Territory,Asia,other,Palestinian Territory,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+118,187,AS,PH,PHL,608,Philippines,Asia,other,Philippines,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+119,193,AS,QA,QAT,634,Qatar,Asia,other,Qatar,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+120,206,AS,SA,SAU,682,Saudi Arabia,Asia,other,Saudi Arabia,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+121,210,AS,SG,SGP,702,Singapore,Asia,other,Singapore,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+122,61,AS,LK,LKA,144,Sri Lanka,Asia,other,Sri Lanka,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+123,224,AS,SY,SYR,760,Syrian Arab Republic,Asia,other,Syrian Arab Republic,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+124,65,AS,TW,TWN,158,Taiwan,Asia,other,Taiwan,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+125,225,AS,TH,THA,764,Thailand,Asia,other,Thaimaa,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+126,191,AS,TL,TLS,626,Timor-Leste,Asia,other,Timor-Leste,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+127,230,AS,AE,ARE,784,United Arab Emirates,Asia,other,United Arab Emirates,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+128,211,AS,VN,VNM,704,Vietnam,Asia,other,Vietnam,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+129,251,AS,YE,YEM,887,Yemen,Asia,other,Yemen,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+130,30,EU,AD,AND,20,Andorra,Europe,other,Andorra,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+131,39,EU,AM,ARM,51,Armenia,Europe,other,Armenia,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+132,86,EU,FO,FRO,234,Faroe Islands,Europe,other,Faroe Islands,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+133,102,EU,GI,GIB,292,Gibraltar,Europe,other,Gibraltar,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+134,240,EU,GG,GGY,831,Guernsey,Europe,other,Guernsey,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+135,114,EU,VA,VAT,336,Holy See (Vatican City State),Europe,other,Holy See (Vatican City State),muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+136,242,EU,IM,IMN,833,Isle of Man,Europe,other,Isle of Man,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+137,241,EU,JE,JEY,832,Jersey,Europe,other,Jersey,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+138,204,EU,SM,SMR,674,San Marino,Europe,other,San Marino,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+139,220,EU,SJ,SJM,744,Svalbard & Jan Mayen Islands,Europe,other,Svalbard & Jan Mayen Islands,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+140,91,EU,AX,ALA,248,Åland Islands,Europe,other,Ahvenanmaa,muu,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+141,199,NA,AI,AIA,660,Anguilla,North America,other,Anguilla,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+142,32,NA,AG,ATG,28,Antigua and Barbuda,North America,other,Antigua and Barbuda,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+143,164,NA,AW,ABW,533,Aruba,North America,other,Aruba,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+144,36,NA,BS,BHS,44,Bahamas,North America,other,Bahama,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+145,40,NA,BB,BRB,52,Barbados,North America,other,Barbados,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+146,48,NA,BZ,BLZ,84,Belize,North America,other,Belize,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+147,42,NA,BM,BMU,60,Bermuda,North America,other,Bermuda,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+148,166,NA,BQ,BES,535,Bonaire,North America,other,Bonaire,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+149,51,NA,VG,VGB,92,British Virgin Islands,North America,other,British Virgin Islands,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+150,59,NA,KY,CYM,136,Cayman Islands,North America,other,Cayman Islands,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+151,74,NA,CR,CRI,188,Costa Rica,North America,other,Costa Rica,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+152,75,NA,CU,CUB,192,Cuba,North America,other,Cuba,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+153,163,NA,CW,CUW,531,Curaçao,North America,other,Curaçao,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+154,79,NA,DM,DMA,212,Dominica,North America,other,Dominica,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+155,80,NA,DO,DOM,214,Dominican Republic,North America,other,Dominican Republic,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+156,82,NA,SV,SLV,222,El Salvador,North America,other,El Salvador,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+157,105,NA,GL,GRL,304,Greenland,North America,other,Greenland,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+158,106,NA,GD,GRD,308,Grenada,North America,other,Grenada,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+159,107,NA,GP,GLP,312,Guadeloupe,North America,other,Guadeloupe,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+160,109,NA,GT,GTM,320,Guatemala,North America,other,Guatemala,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+161,112,NA,HT,HTI,332,Haiti,North America,other,Haiti,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+162,115,NA,HN,HND,340,Honduras,North America,other,Honduras,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+163,126,NA,JM,JAM,388,Jamaica,North America,other,Jamaica,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+164,148,NA,MQ,MTQ,474,Martinique,North America,other,Martinique,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+165,154,NA,MS,MSR,500,Montserrat,North America,other,Montserrat,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+166,162,NA,AN,ANT,530,Netherlands Antilles,North America,other,Netherlands Antilles,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+167,170,NA,NI,NIC,558,Nicaragua,North America,other,Nicaragua,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+168,183,NA,PA,PAN,591,Panama,North America,other,Panama,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+169,192,NA,PR,PRI,630,Puerto Rico,North America,other,Puerto Rico,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+170,196,NA,BL,BLM,652,Saint Barthelemy,North America,other,Saint Barthelemy,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+171,198,NA,KN,KNA,659,Saint Kitts and Nevis,North America,other,Saint Kitts and Nevis,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+172,200,NA,LC,LCA,662,Saint Lucia,North America,other,Saint Lucia,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+173,201,NA,MF,MAF,663,Saint Martin,North America,other,Saint Martin,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+174,202,NA,PM,SPM,666,Saint Pierre and Miquelon,North America,other,Saint Pierre and Miquelon,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+175,203,NA,VC,VCT,670,Saint Vincent and the Grenadines,North America,other,Saint Vincent and the Grenadines,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+176,165,NA,SX,SXM,534,Sint Maarten (Netherlands),North America,other,Sint Maarten (Netherlands),muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+177,229,NA,TT,TTO,780,Trinidad and Tobago,North America,other,Trinidad and Tobago,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+178,234,NA,TC,TCA,796,Turks and Caicos Islands,North America,other,Turks and Caicos Islands,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+179,178,NA,UM,UMI,581,United States Minor Outlying Islands,North America,other,United States Minor Outlying Islands,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+180,245,NA,VI,VIR,850,United States Virgin Islands,North America,other,United States Virgin Islands,muu,0,0,0,0,0,1,0,0,0,0,0,Pohjois-Amerikka
+181,29,OC,AS,ASM,16,American Samoa,Oceania,other,American Samoa,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+182,73,OC,CK,COK,184,Cook Islands,Oceania,other,Cook Islands,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+183,89,OC,FJ,FJI,242,Fiji,Oceania,other,Fiji,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+184,94,OC,PF,PYF,258,French Polynesia,Oceania,other,French Polynesia,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+185,108,OC,GU,GUM,316,Guam,Oceania,other,Guam,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+186,103,OC,KI,KIR,296,Kiribati,Oceania,other,Kiribati,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+187,180,OC,MH,MHL,584,Marshall Islands,Oceania,other,Marshall Islands,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+188,179,OC,FM,FSM,583,Micronesia,Oceania,other,Micronesia,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+189,159,OC,NR,NRU,520,Nauru,Oceania,other,Nauru,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+190,167,OC,NC,NCL,540,New Caledonia,Oceania,other,New Caledonia,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+191,173,OC,NU,NIU,570,Niue,Oceania,other,Niue,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+192,174,OC,NF,NFK,574,Norfolk Island,Oceania,other,Norfolk Island,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+193,176,OC,MP,MNP,580,Northern Mariana Islands,Oceania,other,Northern Mariana Islands,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+194,181,OC,PW,PLW,585,Palau,Oceania,other,Palau,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+195,184,OC,PG,PNG,598,Papua New Guinea,Oceania,other,Papua New Guinea,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+196,188,OC,PN,PCN,612,Pitcairn Islands,Oceania,other,Pitcairn Islands,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+197,250,OC,WS,WSM,882,Samoa,Oceania,other,Samoa,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+198,50,OC,SB,SLB,90,Solomon Islands,Oceania,other,Solomon Islands,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+199,227,OC,TK,TKL,772,Tokelau,Oceania,other,Tokelau,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+200,228,OC,TO,TON,776,Tonga,Oceania,other,Tonga,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+201,235,OC,TV,TUV,798,Tuvalu,Oceania,other,Tuvalu,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+202,177,OC,UM,UMI,581,United States Minor Outlying Islands,Oceania,other,United States Minor Outlying Islands,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+203,168,OC,VU,VUT,548,Vanuatu,Oceania,other,Vanuatu,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+204,249,OC,WF,WLF,876,Wallis and Futuna,Oceania,other,Wallis and Futuna,muu,0,0,0,0,0,0,0,0,1,0,0,Oseania
+205,33,SA,AR,ARG,32,Argentina,South America,other,Argentina,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+206,44,SA,BO,BOL,68,Bolivia,South America,other,Bolivia,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+207,47,SA,BR,BRA,76,Brazil,South America,other,Brazil,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+208,68,SA,CO,COL,170,Colombia,South America,other,Colombia,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+209,81,SA,EC,ECU,218,Ecuador,South America,other,Ecuador,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+210,87,SA,FK,FLK,238,Falkland Islands (Malvinas),South America,other,Falkland Islands (Malvinas),muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+211,93,SA,GF,GUF,254,French Guiana,South America,other,French Guiana,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+212,111,SA,GY,GUY,328,Guyana,South America,other,Guyana,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+213,185,SA,PY,PRY,600,Paraguay,South America,other,Paraguay,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+214,186,SA,PE,PER,604,Peru,South America,other,Peru,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+215,219,SA,SR,SUR,740,Suriname,South America,other,Suriname,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+216,247,SA,UY,URY,858,Uruguay,South America,other,Uruguay,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+217,248,SA,VE,VEN,862,Venezuela,South America,other,Venezuela,muu,0,0,0,0,0,0,1,0,0,0,0,Etelä-Amerikka
+218,78,EU,DK,DNK,208,Denmark,Europe,other,Tanska,Pohjoismaat,1,1,1,1,0,0,0,0,0,0,1,Eurooppa
+219,90,EU,FI,FIN,246,Finland,Europe,other,Suomi,Pohjoismaat,1,1,1,1,0,0,0,0,0,0,1,Eurooppa
+220,222,EU,SE,SWE,752,Sweden,Europe,other,Ruotsi,Pohjoismaat,1,1,1,1,0,0,0,0,0,0,1,Eurooppa
+221,117,EU,IS,ISL,352,Iceland,Europe,other,Islanti,Pohjoismaat,0,0,1,1,0,0,0,0,0,0,1,Eurooppa
+222,175,EU,NO,NOR,578,Norway,Europe,other,Norja,Pohjoismaat,0,0,1,1,0,0,0,0,0,0,1,Eurooppa
+223,12,EU,EE,EST,233,Estonia,Europe,Baltics,Viro,Post-sosialistinen,0,1,1,1,0,0,0,0,0,1,0,Eurooppa
+224,14,EU,LV,LVA,428,Latvia,Europe,Baltics,Latvia,Post-sosialistinen,0,1,0,1,0,0,0,0,0,1,0,Eurooppa
+225,15,EU,LT,LTU,440,Lithuania,Europe,Baltics,Liettua,Post-sosialistinen,0,1,0,1,0,0,0,0,0,1,0,Eurooppa
+226,1,EU,AZ,AZE,31,Azerbaijan,Europe,Caucasus,Azerbaidžan,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0,Eurooppa
+227,2,EU,GE,GEO,268,Georgia,Europe,Caucasus,Georgia,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0,Eurooppa
+228,26,AS,AF,AFG,4,Afghanistan,Asia,Central Asia,Afganistan,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+229,3,AS,KZ,KAZ,398,Kazakhstan,Asia,Central Asia,Kazakstan,Post-sosialistinen,0,0,0,0,1,0,0,0,0,1,0,Aasia
+230,4,AS,TJ,TJK,762,Tajikistan,Asia,Central Asia,Tadžikistan,Post-sosialistinen,0,0,0,0,1,0,0,0,0,1,0,Aasia
+231,5,AS,TM,TKM,795,Turkmenistan,Asia,Central Asia,Turkmenistan,Post-sosialistinen,0,0,0,0,1,0,0,0,0,1,0,Aasia
+232,6,AS,UZ,UZB,860,Uzbekistan,Asia,Central Asia,Uzbekistan,Post-sosialistinen,0,0,0,0,1,0,0,0,0,1,0,Aasia
+233,11,EU,CZ,CZE,203,Czech Republic,Europe,Eastern Europe,Tšekki,Post-sosialistinen,0,1,1,1,0,0,0,0,0,1,0,Eurooppa
+234,13,EU,HU,HUN,348,Hungary,Europe,Eastern Europe,Unkari,Post-sosialistinen,0,1,1,1,0,0,0,0,0,1,0,Eurooppa
+235,17,EU,PL,POL,616,Poland,Europe,Eastern Europe,Puola,Post-sosialistinen,0,1,1,1,0,0,0,0,0,1,0,Eurooppa
+236,20,EU,SK,SVK,703,Slovakia,Europe,Eastern Europe,Slovakia,Post-sosialistinen,0,1,1,1,0,0,0,0,0,1,0,Eurooppa
+237,9,EU,BG,BGR,100,Bulgaria,Europe,Eastern Europe,Bulgaria,Post-sosialistinen,0,1,0,1,0,0,0,0,0,1,0,Eurooppa
+238,18,EU,RO,ROU,642,Romania,Europe,Eastern Europe,Romania,Post-sosialistinen,0,1,0,1,0,0,0,0,0,1,0,Eurooppa
+239,7,EU,AL,ALB,8,Albania,Europe,Eastern Europe,Albania,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0,Eurooppa
+240,21,EU,SI,SVN,705,Slovenia,Europe,Ex-Jugoslavia,Slovenia,Post-sosialistinen,0,1,1,1,0,0,0,0,0,1,0,Eurooppa
+241,10,EU,HR,HRV,191,Croatia,Europe,Ex-Jugoslavia,Kroatia,Post-sosialistinen,0,1,0,1,0,0,0,0,0,1,0,Eurooppa
+242,8,EU,BA,BIH,70,Bosnia and Herzegovina,Europe,Ex-Jugoslavia,Bosnia ja Hertsegovina,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0,Eurooppa
+243,16,EU,ME,MNE,499,Montenegro,Europe,Ex-Jugoslavia,Montenegro,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0,Eurooppa
+244,19,EU,RS,SRB,688,Serbia,Europe,Ex-Jugoslavia,Serbia,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0,Eurooppa
+245,253,EU,XK,,NA,Kosovo,Europe,Ex-Jugoslavia,Kosovo,Post-sosialistinen,0,0,0,1,0,0,0,0,0,1,0,Eurooppa
+246,133,AS,KG,KGZ,417,Kyrgyz Republic,Asia,other,Kirgisia,Post-sosialistinen,0,0,0,0,1,0,0,0,0,0,0,Aasia
+247,237,EU,MK,MKD,807,Macedonia,Europe,other,Makedonia,Post-sosialistinen,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+248,22,EU,BY,BLR,112,Belarus,Europe,Post-Soviet,Valko-Venäjä,Post-sosialistinen,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+249,23,EU,MD,MDA,498,Moldova,Europe,Post-Soviet,Moldova,Post-sosialistinen,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+250,24,EU,UA,UKR,804,Ukraine,Europe,Post-Soviet,Ukraina,Post-sosialistinen,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
+251,25,EU,RU,RUS,643,Russian Federation,Europe,Russia,Venäjä,Post-sosialistinen,0,0,0,1,0,0,0,0,0,0,0,Eurooppa
