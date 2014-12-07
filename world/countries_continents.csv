@@ -1,4 +1,4 @@
-,X,contCode,cCode2,cCode3,cNr,cntryName,contName,group1,maa,ryhma1,EU15,EU27,OECD,europe,asia,north_america,south_america,africa,oceania,postsos,nordic,mannerNimi
+Z,X,contCode,cCode2,cCode3,cNr,cntryName,contName,group1,maa,ryhma1,EU15,EU27,OECD,europe,asia,north_america,south_america,africa,oceania,postsos,nordic,mannerNimi
 1,239,EU,GB,GBR,826,United Kingdom,Europe,other,Iso-Britannia,Anglosaksiset maat,1,1,0,1,0,0,0,0,0,0,0,Eurooppa
 2,122,EU,IE,IRL,372,Ireland,Europe,other,Irlanti,Anglosaksiset maat,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
 3,104,EU,GR,GRC,300,Greece,Europe,other,Kreikka,Etelä-Eurooppa,1,1,1,1,0,0,0,0,0,0,0,Eurooppa
@@ -99,7 +99,7 @@
 98,66,AS,CX,CXR,162,Christmas Island,Asia,other,Christmas Island,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
 99,67,AS,CC,CCK,166,Cocos (Keeling) Islands,Asia,other,Cocos (Keeling) Islands,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
 100,116,AS,HK,HKG,344,Hong Kong,Asia,other,Hong Kong,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
-101,118,AS,IN,IND,356,India,Asia,other,India,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
+101,118,AS,IN,IND,356,India,Asia,other,Intia,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
 102,119,AS,ID,IDN,360,Indonesia,Asia,other,Indonesia,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
 103,120,AS,IR,IRN,364,Iran,Asia,other,Iran,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
 104,121,AS,IQ,IRQ,368,Iraq,Asia,other,Iraq,muu,0,0,0,0,1,0,0,0,0,0,0,Aasia
