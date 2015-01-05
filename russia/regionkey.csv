@@ -1,85 +1,85 @@
-idx,russian,ID,NAME_1,region_en,type_of_subject,federal_district,economic_regions
-76,Алтайский край,2513,Altai Territory,Altai Krai,krai,Siberian Federal District,West Siberian
-72,Республика Алтай,2529,Altai Republic,Altai Republic,republic,Siberian Federal District,West Siberian
-89,Амурская область,2514,Amur Region,Amur Oblast,oblast,Far Eastern Federal District,Far Eastern
-24,Архангельская область,2515,Arkhangelsk Region,Arkhangelsk Oblast,oblast,Northwestern Federal District,Northern
-37,Астраханская область,2516,Astrakhan Region,Astrakhan Oblast,oblast,Southern Federal District,Volga
-3,Белгородская область,2518,Belgorod region,Belgorod Oblast,oblast,Central Federal District,Central Black Earth
-4,Брянская область,2519,Bryansk region,Bryansk Oblast,oblast,Central Federal District,Central
-73,Республика Бурятия,2520,Buryatia,Buryat Republic,republic,Siberian Federal District,East Siberian
-54,Чеченская Республика,2521,Chechen Republic,Chechen Republic,republic,North Caucasian Federal District,North Caucasus
-46,Челябинская область,2522,Chelyabinsk region,Chelyabinsk Oblast,oblast,Ural Federal District,Ural
-69,Чукотский автономный округ,2524,Chukotka Autonomous Okrug,Chukotka Autonomous Okrug,autonomous okrug,Far Eastern Federal District,Far Eastern
-93,Чувашская Республика,2525,Chuvash Republic,Chuvash Republic,republic,Volga Federal District,Volga-Vyatka
-79,Иркутская область,2531,Irkutsk Region,Irkutsk Oblast,oblast,Siberian Federal District,East Siberian
-7,Ивановская область,2532,Ivanovo region,Ivanovo Oblast,oblast,Central Federal District,Central
-92,Еврейская автономная область,2598,Jewish Autonomous Region,Jewish Autonomous Oblast,autonomous oblast,Far Eastern Federal District,Far Eastern
-43,Кабардино-Балкарская Республика,2533,Kabardino-Balkaria,Kabardino-Balkaria Republic,republic,North Caucasian Federal District,North Caucasus
-27,Калининградская область,2534,Kaliningrad region,Kaliningrad Oblast,oblast,Northwestern Federal District,Kaliningrad
-8,Калужская область,2536,Kaluga region,Kaluga Oblast,oblast,Central Federal District,Central
-86,Камчатский край,2537,Kamchatka,Kamchatka Krai,krai,Far Eastern Federal District,Far Eastern
-44,Карачаево-Черкесская Республика,2538,Karachay-Cherkess Republic,Karachay-Cherkess Republic,republic,North Caucasian Federal District,North Caucasus
-80,Кемеровская область,2540,Kemerovo region,Kemerovo Oblast,oblast,Siberian Federal District,West Siberian
-68,Хабаровский край,2541,Khabarovsk Territory,Khabarovsk Krai,krai,Far Eastern Federal District,Far Eastern
-70,Ханты-Мансийский автономный округ-Югра,2543,Khanty-Mansiysk Autonomous Okrug - Ugra,Khanty-Mansiysk Autonomous Okrug,autonomous okrug,Ural Federal District,West Siberian
-56,Кировская область,2544,Kirov region,Kirov Oblast,oblast,Volga Federal District,Volga-Vyatka
-23,Республика Коми,2545,Komi,Komi Republic,republic,Northwestern Federal District,Northern
-9,Костромская область,2548,Kostroma region,Kostroma Oblast,oblast,Central Federal District,Central
-36,Краснодарский край,2549,Krasnodar region,Krasnodar Krai,krai,Southern Federal District,North Caucasus
-78,Красноярский край,2550,Krasnoyarsk Territory,Krasnoyarsk Krai,krai,Siberian Federal District,East Siberian
-64,Курганская область,2551,Kurgan Region,Kurgan Oblast,oblast,Ural Federal District,Ural
-10,Курская область,2552,Kursk region,Kursk Oblast,oblast,Central Federal District,Central Black Earth
-28,Ленинградская область,2553,Leningrad Region,Leningrad Oblast,oblast,Northwestern Federal District,Northwestern
-11,Липецкая область,2554,Lipetsk region,Lipetsk Oblast,oblast,Central Federal District,Central Black Earth
-90,Магаданская область,2555,Magadan region,Magadan Oblast,oblast,Far Eastern Federal District,Far Eastern
-50,Республика Марий Эл,2556,Mari El Republic,Mari El Republic,republic,Volga Federal District,Volga-Vyatka
-20,г.Москва,0,Moscow,Moscow,federal city,Central Federal District,Central
-12,Московская область,2558,Moscow region,Moscow Oblast,oblast,Central Federal District,Central
-29,Мурманская область,2559,Murmansk region,Murmansk Oblast,oblast,Northwestern Federal District,Northern
-25,в том числе Ненецкий автономный округ,2560,Nenets Autonomous District,Nenets Autonomous District,autonomous okrug,Northwestern Federal District,Northern
-57,Нижегородская область,2561,Nizhny Novgorod region,Nizhny Novgorod Oblast,oblast,Volga Federal District,Volga-Vyatka
-30,Новгородская область,2563,Novgorod region,Novgorod Oblast,oblast,Northwestern Federal District,Northwestern
-81,Новосибирская область,2564,Novosibirsk Region,Novosibirsk Oblast,oblast,Siberian Federal District,West Siberian
-82,Омская область,2565,Omsk region,Omsk Oblast,oblast,Siberian Federal District,West Siberian
-58,Оренбургская область,2567,Orenburg Region,Orenburg Oblast,oblast,Volga Federal District,Ural
-13,Орловская область,2566,Orel,Oryol Oblast,oblast,Central Federal District,Central
-59,Пензенская область,2568,Penza Region,Penza Oblast,oblast,Volga Federal District,Volga
-55,Пермский край,2569,Perm,Perm Krai,krai,Volga Federal District,Ural
-87,Приморский край,2570,Primorsky Krai,Primorsky Krai,krai,Far Eastern Federal District,Far Eastern
-31,Псковская область,2571,Pskov Region,Pskov Oblast,oblast,Northwestern Federal District,Northwestern
-34,Республика Адыгея,2511,Adygea,Republic of Adygea,republic,Southern Federal District,North Caucasus
-49,Республика Башкортостан,2517,Bashkortostan,Republic of Bashkortostan,republic,Volga Federal District,Ural
-41,Республика Дагестан,2527,Dagestan,Republic of Dagestan,republic,North Caucasian Federal District,North Caucasus
-42,Республика Ингушетия,2530,Ingushetia,Republic of Ingushetia,republic,North Caucasian Federal District,North Caucasus
-35,Республика Калмыкия,2535,Kalmykia,Republic of Kalmykia,republic,Southern Federal District,Volga
-22,Республика Карелия,2539,Karelia,Republic of Karelia,republic,Northwestern Federal District,Northern
-75,Республика Хакасия,2542,Khakassia,Republic of Khakassia,republic,Siberian Federal District,East Siberian
-51,Республика Мордовия,2557,Mordovia,Republic of Mordovia,republic,Volga Federal District,Volga-Vyatka
-45,Республика Северная Осетия - Алания,2562,North Ossetia - Alania,Republic of North Ossetia - Alania,republic,North Caucasian Federal District,North Caucasus
-52,Республика Татарстан,2582,Tatarstan,Republic of Tatarstan,republic,Volga Federal District,Volga
-74,Республика Тыва,2586,Tyva,Republic of Tyva,republic,Siberian Federal District,East Siberian
-14,Ростовская область,2572,Rostov Region,Rostov Oblast,oblast,Southern Federal District,North Caucasus
-60,Рязанская область,2573,Ryazan Region,Ryazan Oblast,oblast,Central Federal District,Central
-85,Республика Саха (Якутия),2574,Sakha (Yakutia),Sakha Republic,republic,Far Eastern Federal District,Far Eastern
-65,Сахалинская область,2575,Sakhalin Region,Sakhalin Oblast,oblast,Far Eastern Federal District,Far Eastern
-61,Самарская область,2576,Samara Region,Samara Oblast,oblast,Volga Federal District,Volga
-91,Саратовская область,2577,Saratov Region,Saratov Oblast,oblast,Volga Federal District,Volga
-47,Смоленская область,2578,Smolensk region,Smolensk Oblast,oblast,Central Federal District,Central
-32,г.Санкт-Петербург,2526,St. Petersburg,St. Petersburg,federal city,Northwestern Federal District,Northwestern
-16,Ставропольский край,2579,Stavropol Territory,Stavropol Krai,krai,North Caucasian Federal District,North Caucasus
-15,Свердловская область,2580,Sverdlovsk region,Sverdlovsk Oblast,oblast,Ural Federal District,Ural
-17,Тамбовская область,2581,Tambov region,Tambov Oblast,oblast,Central Federal District,Central Black Earth
-18,Томская область,2584,Tomsk Region,Tomsk Oblast,oblast,Siberian Federal District,West Siberian
-66,Тульская область,2585,Tula Region,Tula Oblast,oblast,Central Federal District,Central
-83,Тверская область,2587,Tver Region,Tver Oblast,oblast,Central Federal District,Central
-53,Тюменская область,2588,Tyumen Region,Tyumen Oblast,oblast,Ural Federal District,West Siberian
-62,Удмуртская Республика,2589,Udmurt Republic,Udmurt Republic,republic,Volga Federal District,Ural
-88,Ульяновская область,2590,Ulyanovsk Region,Ulyanovsk Oblast,oblast,Volga Federal District,Volga
-5,Владимирская область,2592,Vladimir Region,Vladimir Oblast,oblast,Central Federal District,Central
-38,Волгоградская область,2593,Volgograd Region,Volgograd Oblast,oblast,Southern Federal District,Volga
-26,Вологодская область,2594,Vologda Region,Vologda Oblast,oblast,Northwestern Federal District,Northern
-6,Воронежская область,2595,Voronezh Region,Voronezh Oblast,oblast,Central Federal District,Central Black Earth
-19,Ямало-Ненецкий автономный округ,2596,Yamalo-Nenets Autonomous District,Yamalo-Nenets Autonomous Okrug,autonomous okrug,Ural Federal District,West Siberian
-,Ярославская область,2597,Yaroslavl Region,Yaroslavl Oblast,oblast,Central Federal District,Central
-77,Забайкальский край,2523,Trans-Baikal Territory,Zabaykalsky Krai,krai,Siberian Federal District,East Siberian
-39,Российская Федерация,NA,Russian Federation,,,,
+idx,russian,ID,region_en,type_of_subject,federal_district,economic_regions
+76,Алтайский край,2513,Altai Krai,krai,Siberian Federal District,West Siberian
+89,Амурская область,2514,Amur Oblast,oblast,Far Eastern Federal District,Far Eastern
+24,Архангельская область,2515,Arkhangelsk Oblast,oblast,Northwestern Federal District,Northern
+37,Астраханская область,2516,Astrakhan Oblast,oblast,Southern Federal District,Volga
+3,Белгородская область,2518,Belgorod Oblast,oblast,Central Federal District,Central Black Earth
+4,Брянская область,2519,Bryansk Oblast,oblast,Central Federal District,Central
+25,в том числе Ненецкий автономный округ,2560,Nenets Autonomous District,autonomous okrug,Northwestern Federal District,Northern
+5,Владимирская область,2592,Vladimir Oblast,oblast,Central Federal District,Central
+38,Волгоградская область,2593,Volgograd Oblast,oblast,Southern Federal District,Volga
+26,Вологодская область,2594,Vologda Oblast,oblast,Northwestern Federal District,Northern
+6,Воронежская область,2595,Voronezh Oblast,oblast,Central Federal District,Central Black Earth
+20,г.Москва,0,Moscow,federal city,Central Federal District,Central
+32,г.Санкт-Петербург,2526,St. Petersburg,federal city,Northwestern Federal District,Northwestern
+92,Еврейская автономная область,2598,Jewish Autonomous Oblast,autonomous oblast,Far Eastern Federal District,Far Eastern
+77,Забайкальский край,2523,Zabaykalsky Krai,krai,Siberian Federal District,East Siberian
+7,Ивановская область,2532,Ivanovo Oblast,oblast,Central Federal District,Central
+79,Иркутская область,2531,Irkutsk Oblast,oblast,Siberian Federal District,East Siberian
+43,Кабардино-Балкарская Республика,2533,Kabardino-Balkaria Republic,republic,North Caucasian Federal District,North Caucasus
+27,Калининградская область,2534,Kaliningrad Oblast,oblast,Northwestern Federal District,Kaliningrad
+8,Калужская область,2536,Kaluga Oblast,oblast,Central Federal District,Central
+86,Камчатский край,2537,Kamchatka Krai,krai,Far Eastern Federal District,Far Eastern
+44,Карачаево-Черкесская Республика,2538,Karachay-Cherkess Republic,republic,North Caucasian Federal District,North Caucasus
+80,Кемеровская область,2540,Kemerovo Oblast,oblast,Siberian Federal District,West Siberian
+56,Кировская область,2544,Kirov Oblast,oblast,Volga Federal District,Volga-Vyatka
+9,Костромская область,2548,Kostroma Oblast,oblast,Central Federal District,Central
+36,Краснодарский край,2549,Krasnodar Krai,krai,Southern Federal District,North Caucasus
+78,Красноярский край,2550,Krasnoyarsk Krai,krai,Siberian Federal District,East Siberian
+64,Курганская область,2551,Kurgan Oblast,oblast,Ural Federal District,Ural
+10,Курская область,2552,Kursk Oblast,oblast,Central Federal District,Central Black Earth
+28,Ленинградская область,2553,Leningrad Oblast,oblast,Northwestern Federal District,Northwestern
+11,Липецкая область,2554,Lipetsk Oblast,oblast,Central Federal District,Central Black Earth
+90,Магаданская область,2555,Magadan Oblast,oblast,Far Eastern Federal District,Far Eastern
+12,Московская область,2558,Moscow Oblast,oblast,Central Federal District,Central
+29,Мурманская область,2559,Murmansk Oblast,oblast,Northwestern Federal District,Northern
+57,Нижегородская область,2561,Nizhny Novgorod Oblast,oblast,Volga Federal District,Volga-Vyatka
+30,Новгородская область,2563,Novgorod Oblast,oblast,Northwestern Federal District,Northwestern
+81,Новосибирская область,2564,Novosibirsk Oblast,oblast,Siberian Federal District,West Siberian
+82,Омская область,2565,Omsk Oblast,oblast,Siberian Federal District,West Siberian
+58,Оренбургская область,2567,Orenburg Oblast,oblast,Volga Federal District,Ural
+13,Орловская область,2566,Oryol Oblast,oblast,Central Federal District,Central
+59,Пензенская область,2568,Penza Oblast,oblast,Volga Federal District,Volga
+55,Пермский край,2569,Perm Krai,krai,Volga Federal District,Ural
+87,Приморский край,2570,Primorsky Krai,krai,Far Eastern Federal District,Far Eastern
+31,Псковская область,2571,Pskov Oblast,oblast,Northwestern Federal District,Northwestern
+34,Республика Адыгея,2511,Republic of Adygea,republic,Southern Federal District,North Caucasus
+72,Республика Алтай,2529,Altai Republic,republic,Siberian Federal District,West Siberian
+49,Республика Башкортостан,2517,Republic of Bashkortostan,republic,Volga Federal District,Ural
+73,Республика Бурятия,2520,Buryat Republic,republic,Siberian Federal District,East Siberian
+41,Республика Дагестан,2527,Republic of Dagestan,republic,North Caucasian Federal District,North Caucasus
+42,Республика Ингушетия,2530,Republic of Ingushetia,republic,North Caucasian Federal District,North Caucasus
+35,Республика Калмыкия,2535,Republic of Kalmykia,republic,Southern Federal District,Volga
+22,Республика Карелия,2539,Republic of Karelia,republic,Northwestern Federal District,Northern
+23,Республика Коми,2545,Komi Republic,republic,Northwestern Federal District,Northern
+50,Республика Марий Эл,2556,Mari El Republic,republic,Volga Federal District,Volga-Vyatka
+51,Республика Мордовия,2557,Republic of Mordovia,republic,Volga Federal District,Volga-Vyatka
+85,Республика Саха (Якутия),2574,Sakha Republic,republic,Far Eastern Federal District,Far Eastern
+45,Республика Северная Осетия - Алания,2562,Republic of North Ossetia - Alania,republic,North Caucasian Federal District,North Caucasus
+52,Республика Татарстан,2582,Republic of Tatarstan,republic,Volga Federal District,Volga
+74,Республика Тыва,2586,Republic of Tyva,republic,Siberian Federal District,East Siberian
+75,Республика Хакасия,2542,Republic of Khakassia,republic,Siberian Federal District,East Siberian
+39,Российская Федерация,NA,,,,
+14,Ростовская область,2572,Rostov Oblast,oblast,Southern Federal District,North Caucasus
+60,Рязанская область,2573,Ryazan Oblast,oblast,Central Federal District,Central
+61,Самарская область,2576,Samara Oblast,oblast,Volga Federal District,Volga
+91,Саратовская область,2577,Saratov Oblast,oblast,Volga Federal District,Volga
+65,Сахалинская область,2575,Sakhalin Oblast,oblast,Far Eastern Federal District,Far Eastern
+15,Свердловская область,2580,Sverdlovsk Oblast,oblast,Ural Federal District,Ural
+47,Смоленская область,2578,Smolensk Oblast,oblast,Central Federal District,Central
+16,Ставропольский край,2579,Stavropol Krai,krai,North Caucasian Federal District,North Caucasus
+17,Тамбовская область,2581,Tambov Oblast,oblast,Central Federal District,Central Black Earth
+83,Тверская область,2587,Tver Oblast,oblast,Central Federal District,Central
+18,Томская область,2584,Tomsk Oblast,oblast,Siberian Federal District,West Siberian
+66,Тульская область,2585,Tula Oblast,oblast,Central Federal District,Central
+53,Тюменская область,2588,Tyumen Oblast,oblast,Ural Federal District,West Siberian
+62,Удмуртская Республика,2589,Udmurt Republic,republic,Volga Federal District,Ural
+88,Ульяновская область,2590,Ulyanovsk Oblast,oblast,Volga Federal District,Volga
+68,Хабаровский край,2541,Khabarovsk Krai,krai,Far Eastern Federal District,Far Eastern
+70,Ханты-Мансийский автономный округ-Югра,2543,Khanty-Mansiysk Autonomous Okrug,autonomous okrug,Ural Federal District,West Siberian
+46,Челябинская область,2522,Chelyabinsk Oblast,oblast,Ural Federal District,Ural
+54,Чеченская Республика,2521,Chechen Republic,republic,North Caucasian Federal District,North Caucasus
+93,Чувашская Республика,2525,Chuvash Republic,republic,Volga Federal District,Volga-Vyatka
+69,Чукотский автономный округ,2524,Chukotka Autonomous Okrug,autonomous okrug,Far Eastern Federal District,Far Eastern
+19,Ямало-Ненецкий автономный округ,2596,Yamalo-Nenets Autonomous Okrug,autonomous okrug,Ural Federal District,West Siberian
+,Ярославская область,2597,Yaroslavl Oblast,oblast,Central Federal District,Central
